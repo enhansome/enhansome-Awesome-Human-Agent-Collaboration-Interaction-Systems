@@ -19,7 +19,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69814
+            "stars": 69834
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T19:06:46Z",
+            "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38531
+            "stars": 38540
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2025-09-30T18:07:21Z",
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 30995
+            "stars": 31010
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-12T23:47:19Z",
             "owner": "microsoft",
             "repo": "magentic-ui",
-            "stars": 10063
+            "stars": 10064
           }
         },
         {
@@ -72,10 +72,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:45:12Z",
+            "last_commit": "2026-08-14T20:59:57Z",
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 1796
+            "stars": 1797
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-03-18T17:36:06Z",
             "owner": "sierra-research",
             "repo": "tau-bench",
-            "stars": 1381
+            "stars": 1382
           }
         },
         {
@@ -826,7 +826,7 @@
             "last_commit": "2026-08-12T23:47:19Z",
             "owner": "microsoft",
             "repo": "magentic-ui",
-            "stars": 10063
+            "stars": 10064
           }
         },
         {
@@ -1017,10 +1017,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T19:06:46Z",
+            "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38531
+            "stars": 38540
           }
         },
         {
@@ -1034,7 +1034,7 @@
             "last_commit": "2025-09-30T18:07:21Z",
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 30995
+            "stars": 31010
           }
         },
         {
@@ -1217,10 +1217,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:45:12Z",
+            "last_commit": "2026-08-14T20:59:57Z",
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 1796
+            "stars": 1797
           }
         },
         {
@@ -1234,7 +1234,7 @@
             "last_commit": "2026-03-18T17:36:06Z",
             "owner": "sierra-research",
             "repo": "tau-bench",
-            "stars": 1381
+            "stars": 1382
           }
         },
         {
@@ -1265,10 +1265,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:45:12Z",
+            "last_commit": "2026-08-14T20:59:57Z",
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 1796
+            "stars": 1797
           }
         },
         {
@@ -1282,7 +1282,7 @@
             "last_commit": "2026-03-18T17:36:06Z",
             "owner": "sierra-research",
             "repo": "tau-bench",
-            "stars": 1381
+            "stars": 1382
           }
         },
         {
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:48:42.484Z",
+    "last_updated": "2026-08-15T19:21:23.919Z",
     "original_repository": "HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems",
     "original_repository_sha": "7b3ba9deefe99172748582f6025d995ccc2a6f86",
     "enhanced_repository": "enhansome/enhansome-Awesome-Human-Agent-Collaboration-Interaction-Systems",
