@@ -19,7 +19,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69855
+            "stars": 69864
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38547
+            "stars": 38567
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2025-09-30T18:07:21Z",
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31025
+            "stars": 31040
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-14T20:59:57Z",
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 1800
+            "stars": 1807
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-03-18T17:36:06Z",
             "owner": "sierra-research",
             "repo": "tau-bench",
-            "stars": 1384
+            "stars": 1386
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-05-08T15:04:42Z",
             "owner": "microsoft",
             "repo": "mineworld",
-            "stars": 487
+            "stars": 489
           }
         },
         {
@@ -159,7 +159,7 @@
             "last_commit": "2026-06-05T17:23:42Z",
             "owner": "sotopia-lab",
             "repo": "sotopia",
-            "stars": 326
+            "stars": 327
           }
         },
         {
@@ -1020,7 +1020,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38547
+            "stars": 38567
           }
         },
         {
@@ -1034,7 +1034,7 @@
             "last_commit": "2025-09-30T18:07:21Z",
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31025
+            "stars": 31040
           }
         },
         {
@@ -1152,7 +1152,7 @@
             "last_commit": "2026-05-08T15:04:42Z",
             "owner": "microsoft",
             "repo": "mineworld",
-            "stars": 487
+            "stars": 489
           }
         },
         {
@@ -1220,7 +1220,7 @@
             "last_commit": "2026-08-14T20:59:57Z",
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 1800
+            "stars": 1807
           }
         },
         {
@@ -1234,7 +1234,7 @@
             "last_commit": "2026-03-18T17:36:06Z",
             "owner": "sierra-research",
             "repo": "tau-bench",
-            "stars": 1384
+            "stars": 1386
           }
         },
         {
@@ -1268,7 +1268,7 @@
             "last_commit": "2026-08-14T20:59:57Z",
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 1800
+            "stars": 1807
           }
         },
         {
@@ -1282,7 +1282,7 @@
             "last_commit": "2026-03-18T17:36:06Z",
             "owner": "sierra-research",
             "repo": "tau-bench",
-            "stars": 1384
+            "stars": 1386
           }
         },
         {
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:21:09.790Z",
+    "last_updated": "2026-08-17T19:28:57.490Z",
     "original_repository": "HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems",
     "original_repository_sha": "7b3ba9deefe99172748582f6025d995ccc2a6f86",
     "enhanced_repository": "enhansome/enhansome-Awesome-Human-Agent-Collaboration-Interaction-Systems",
