@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "Recent advances in large language models (LLMs) have sparked growing interest in building fully autonomous agents. However, fully autonomous LLM-based agents still face significant challenges, including (1) limited reliability due to hallucinations, (2) difficulty in handling complex tasks, and (3) substantial safety and ethical risks, all of which limit their feasibility and trustworthiness in real-world applications.\nLLM-based human-agent collaboration systems are interactive frameworks where humans actively provide (1) additional information, (2) feedback, or (3) control during interaction with LLM-powered agents to enhance system performance, reliability, and safety. These human-agent collaboration systems enable humans and LLM-based agents to collaborate effectively by leveraging their complementary strengths. For a detailed introduction, please refer to our survey paper: LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey.\nOur goal with this project is to build an exhaustive collection of awesome resources relevant to LLM-Based Human-Agent/AI Collaboration and Interaction Systems, encompassing papers, repositories, and more to foster further research and innovation in this rapidly evolving interdisciplinary field of human-ai collaboration. 🤗 Contributions are welcome! 🤗 If you have recommended papers, resources or suggestions, please submit pull requests, open issues or contact us. We will keep updating our repo & survey paper.",
-      "items": [],
-      "title": "🌟 Introduction"
-    },
-    {
       "description": "(©️click here back to table of contents👆🏻)\n🤗 Contributions are welcome! If you have recommended papers and resources, please submit pull requests or open issues.",
       "items": [
         {
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660551251,
             "language": "Python",
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69881
+            "stars": 69893
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151619717,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38575
+            "stars": 38579
           }
         },
         {
@@ -43,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 776854298,
             "language": "Python",
             "last_commit": "2025-09-30T18:07:21Z",
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31058
+            "stars": 31068
           }
         },
         {
@@ -57,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 978331188,
             "language": "Python",
             "last_commit": "2026-08-12T23:47:19Z",
             "owner": "microsoft",
             "repo": "magentic-ui",
-            "stars": 10067
+            "stars": 10069
           }
         },
         {
@@ -71,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 999222244,
             "language": "Python",
             "last_commit": "2026-08-18T17:07:54Z",
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 1819
+            "stars": 1823
           }
         },
         {
@@ -85,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 811477986,
             "language": "Python",
             "last_commit": "2026-03-18T17:36:06Z",
             "owner": "sierra-research",
             "repo": "tau-bench",
-            "stars": 1388
+            "stars": 1390
           }
         },
         {
@@ -99,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 859954124,
             "language": "Python",
             "last_commit": "2026-05-12T08:51:07Z",
             "owner": "thunlp",
             "repo": "ProactiveAgent",
-            "stars": 649
+            "stars": 648
           }
         },
         {
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 936035561,
             "language": "Python",
             "last_commit": "2026-05-08T15:04:42Z",
             "owner": "microsoft",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 817660183,
             "language": "Python",
             "last_commit": "2025-02-22T06:07:42Z",
             "owner": "DigiRL-agent",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 879929968,
             "language": "Python",
             "last_commit": "2026-04-08T07:36:41Z",
             "owner": "facebookresearch",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 708991650,
             "language": "Python",
             "last_commit": "2026-06-05T17:23:42Z",
             "owner": "sotopia-lab",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 925088473,
             "language": "Jupyter Notebook",
             "last_commit": "2025-09-25T20:38:29Z",
             "owner": "Wuyxin",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 950247407,
             "language": "Python",
             "last_commit": "2025-05-05T18:35:45Z",
             "owner": "facebookresearch",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 971037997,
             "language": null,
             "last_commit": "2026-07-23T05:33:51Z",
             "owner": "HenryPengZou",
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 971037997,
             "language": null,
             "last_commit": "2026-07-23T05:33:51Z",
             "owner": "HenryPengZou",
@@ -225,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 661732596,
             "language": "Python",
             "last_commit": "2023-08-22T12:36:24Z",
             "owner": "Gary3410",
@@ -239,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 754785216,
             "language": "Python",
             "last_commit": "2026-08-16T18:12:27Z",
             "owner": "McGill-NLP",
@@ -253,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 905409187,
             "language": "Python",
             "last_commit": "2026-04-30T21:27:02Z",
             "owner": "SALT-NLP",
@@ -267,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 692981871,
             "language": "Python",
             "last_commit": "2024-06-04T04:01:10Z",
             "owner": "xingyaoww",
@@ -281,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 799863312,
             "language": "Python",
             "last_commit": "2026-04-20T02:09:09Z",
             "owner": "Liu-Hy",
@@ -295,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 752872208,
             "language": "Python",
             "last_commit": "2026-07-11T21:25:33Z",
             "owner": "camel-ai",
@@ -309,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1059666158,
             "language": "Python",
             "last_commit": "2026-06-02T18:57:33Z",
             "owner": "SalesforceAIResearch",
@@ -323,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1087898279,
             "language": "Python",
             "last_commit": "2026-01-20T20:30:36Z",
             "owner": "sunnweiwei",
@@ -337,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 693859540,
             "language": "Python",
             "last_commit": "2024-06-12T19:10:40Z",
             "owner": "mindagent",
@@ -351,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1044035004,
             "language": "Python",
             "last_commit": "2025-11-05T05:46:27Z",
             "owner": "zzwkk",
@@ -365,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1026907522,
             "language": "Python",
             "last_commit": "2026-06-02T18:57:11Z",
             "owner": "SalesforceAIResearch",
@@ -379,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1250013724,
             "language": "Python",
             "last_commit": "2026-07-14T06:40:35Z",
             "owner": "meituan-longcat",
@@ -393,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 933539007,
             "language": "Python",
             "last_commit": "2025-11-22T11:47:40Z",
             "owner": "sjtu-marl",
@@ -407,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1129882882,
             "language": "Python",
             "last_commit": "2026-04-26T08:12:12Z",
             "owner": "facebookresearch",
@@ -421,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 790976382,
             "language": "Python",
             "last_commit": "2025-06-11T02:13:05Z",
             "owner": "tobeatraceur",
@@ -435,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 791971320,
             "language": "Python",
             "last_commit": "2024-11-23T15:50:11Z",
             "owner": "gao-g",
@@ -449,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 772400342,
             "language": "Python",
             "last_commit": "2025-08-01T18:51:30Z",
             "owner": "HRI-EU",
@@ -463,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1018385120,
             "language": "Jupyter Notebook",
             "last_commit": "2025-07-23T05:34:43Z",
             "owner": "SALT-NLP",
@@ -477,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 991244644,
             "language": "Python",
             "last_commit": "2026-04-23T09:19:43Z",
             "owner": "NuoJohnChen",
@@ -491,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 779949674,
             "language": "TypeScript",
             "last_commit": "2024-04-19T02:19:24Z",
             "owner": "AgentCoord",
@@ -505,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 964132329,
             "language": "Jupyter Notebook",
             "last_commit": "2025-04-15T05:14:32Z",
             "owner": "1akaman",
@@ -519,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 816830532,
             "language": "Python",
             "last_commit": "2025-07-28T17:00:17Z",
             "owner": "magicgh",
@@ -533,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1178733551,
             "language": "Python",
             "last_commit": "2026-07-04T07:02:36Z",
             "owner": "Mosi-AI",
@@ -547,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1150432631,
             "language": "Python",
             "last_commit": "2026-03-16T13:49:56Z",
             "owner": "kfq20",
@@ -561,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1190115225,
             "language": "Python",
             "last_commit": "2026-07-09T05:33:23Z",
             "owner": "HenryPengZou",
@@ -575,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1071043084,
             "language": "Python",
             "last_commit": "2025-10-06T19:40:28Z",
             "owner": "festusev",
@@ -589,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1113734514,
             "language": "HTML",
             "last_commit": "2026-06-09T14:01:31Z",
             "owner": "MisterBrookT",
@@ -603,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 985797688,
             "language": "Python",
             "last_commit": "2025-05-18T14:52:06Z",
             "owner": "yf-he",
@@ -617,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1066671106,
             "language": "Python",
             "last_commit": "2026-04-06T20:47:22Z",
             "owner": "ChunyuMiao98",
@@ -631,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 899113060,
             "language": "Java",
             "last_commit": "2025-06-27T11:11:45Z",
             "owner": "BESSER-PEARL",
@@ -645,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1222821644,
             "language": "Python",
             "last_commit": "2026-08-07T09:19:47Z",
             "owner": "YujunZhou",
@@ -659,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 940840058,
             "language": "Python",
             "last_commit": "2026-07-02T23:26:38Z",
             "owner": "LlenRotse",
@@ -673,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1257669641,
             "language": "Python",
             "last_commit": "2026-07-27T05:24:08Z",
             "owner": "WhymustIhaveaname",
@@ -687,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 936989513,
             "language": "TypeScript",
             "last_commit": "2025-07-25T13:46:27Z",
             "owner": "sphere-eval",
@@ -701,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1185765832,
             "language": "Python",
             "last_commit": "2026-03-24T14:51:36Z",
             "owner": "YurenHao0426",
@@ -715,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 992823885,
             "language": null,
             "last_commit": "2025-09-19T20:52:29Z",
             "owner": "microsoft",
@@ -729,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 940303424,
             "language": "Python",
             "last_commit": "2025-02-28T00:45:04Z",
             "owner": "stovecat",
@@ -743,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 853679830,
             "language": "Python",
             "last_commit": "2025-06-19T08:23:12Z",
             "owner": "AssistantX-Agent",
@@ -757,643 +805,646 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1273169619,
             "language": "Python",
             "last_commit": "2026-07-24T14:40:47Z",
             "owner": "wcx21",
             "repo": "deliberative-collaboration-agents",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "[2025-08-20] [arXiv 2025] aiXiv: A Next-Generation Open Access Ecosystem for Scientific Discovery Generated by AI Scientists",
-          "description": null,
-          "children": []
         }
       ],
       "title": "📄 Latest Research Papers"
     },
     {
       "description": "(©️click here back to table of contents👆🏻)",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2026-03-20] [arXiv 2026] LiveClawBench: Benchmarking LLM Agents on Complex, Real-World Assistant Tasks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1178733551,
+                "language": "Python",
+                "last_commit": "2026-07-04T07:02:36Z",
+                "owner": "Mosi-AI",
+                "repo": "LiveClawBench",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2026-04-01] [arXiv 2026] When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1190115225,
+                "language": "Python",
+                "last_commit": "2026-07-09T05:33:23Z",
+                "owner": "HenryPengZou",
+                "repo": "InterruptBench",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "💻 Web Navigation & Computer Use"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2025-07-30] [arXiv 2025] Magentic-UI: Towards Human-in-the-loop Agentic Systems",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 978331188,
+                "language": "Python",
+                "last_commit": "2026-08-12T23:47:19Z",
+                "owner": "microsoft",
+                "repo": "magentic-ui",
+                "stars": 10069
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2025-03-19] [arXiv 2025] SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 950247407,
+                "language": "Python",
+                "last_commit": "2025-05-05T18:35:45Z",
+                "owner": "facebookresearch",
+                "repo": "sweet_rl",
+                "stars": 271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2023-06-26] [NeurIPS 2023] InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658826129,
+                "language": "Python",
+                "last_commit": "2024-05-05T23:42:59Z",
+                "owner": "princeton-nlp",
+                "repo": "intercode",
+                "stars": 254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2023-09-19] [ICLR 2024] MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 692981871,
+                "language": "Python",
+                "last_commit": "2024-06-04T04:01:10Z",
+                "owner": "xingyaoww",
+                "repo": "mint-bench",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2025-10-07] [arXiv 2025] RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1066671106,
+                "language": "Python",
+                "last_commit": "2026-04-06T20:47:22Z",
+                "owner": "ChunyuMiao98",
+                "repo": "RECODE-H",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2026-06-11] [arXiv 2026] Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents (TRACE)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1222821644,
+                "language": "Python",
+                "last_commit": "2026-08-07T09:19:47Z",
+                "owner": "YujunZhou",
+                "repo": "tellonce",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2025-02-27] [ICLR 2025] ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 940303424,
+                "language": "Python",
+                "last_commit": "2025-02-28T00:45:04Z",
+                "owner": "stovecat",
+                "repo": "convcodeworld",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "👨🏻‍💻 Software Engineering, Coding"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2024-10-31] [ICLR 2025] PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 879929968,
+                "language": "Python",
+                "last_commit": "2026-04-08T07:36:41Z",
+                "owner": "facebookresearch",
+                "repo": "partnr-planner",
+                "stars": 381
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2023-07-05] [ICLR 2024] Building Cooperative Embodied Agents Modularly with Large Language Models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 662678209,
+                "language": "Python",
+                "last_commit": "2025-03-30T15:18:28Z",
+                "owner": "UMass-Embodied-AGI",
+                "repo": "CoELA",
+                "stars": 306
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2023-07-04] [arXiv 2023] Embodied Task Planning with Large Language Models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661732596,
+                "language": "Python",
+                "last_commit": "2023-08-22T12:36:24Z",
+                "owner": "Gary3410",
+                "repo": "TaPA",
+                "stars": 195
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2023-09-19] [ICLR 2024] MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 692981871,
+                "language": "Python",
+                "last_commit": "2024-06-04T04:01:10Z",
+                "owner": "xingyaoww",
+                "repo": "mint-bench",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2023-04-21] [EACL 2024 Findings] Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 614586070,
+                "language": "Python",
+                "last_commit": "2024-08-31T00:08:18Z",
+                "owner": "microsoft",
+                "repo": "iglu-datasets",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2026-07-07] [arXiv 2026] LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1273169619,
+                "language": "Python",
+                "last_commit": "2026-07-24T14:40:47Z",
+                "owner": "wcx21",
+                "repo": "deliberative-collaboration-agents",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🤖 Embodied AI, Robotics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2025-05-24] [ICLR 2025] Learning to Clarify: Multi-turn Conversations with Action-Based Contrastive Self-Training",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151619717,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-16T18:45:46Z",
+                "owner": "google-research",
+                "repo": "google-research",
+                "stars": 38579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2024-08-27] [EMNLP 2024] Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776854298,
+                "language": "Python",
+                "last_commit": "2025-09-30T18:07:21Z",
+                "owner": "stanford-oval",
+                "repo": "storm",
+                "stars": 31068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2024-02-08] [arXiv 2024] WebLINX: Real-World Website Navigation with Multi-Turn Dialogue",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754785216,
+                "language": "Python",
+                "last_commit": "2026-08-16T18:12:27Z",
+                "owner": "McGill-NLP",
+                "repo": "weblinx",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2023-09-19] [ICLR 2024] MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 692981871,
+                "language": "Python",
+                "last_commit": "2024-06-04T04:01:10Z",
+                "owner": "xingyaoww",
+                "repo": "mint-bench",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2025-09-24] [arXiv 2025] UserRL: Training Proactive User-Centric Agent via Reinforcement Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1059666158,
+                "language": "Python",
+                "last_commit": "2026-06-02T18:57:33Z",
+                "owner": "SalesforceAIResearch",
+                "repo": "UserRL",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2026-05-26] [arXiv 2026] VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1250013724,
+                "language": "Python",
+                "last_commit": "2026-07-14T06:40:35Z",
+                "owner": "meituan-longcat",
+                "repo": "VitaBench-2.0",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2026-02-18] [arXiv 2026] Learning Personalized Agents from Human Feedback",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1129882882,
+                "language": "Python",
+                "last_commit": "2026-04-26T08:12:12Z",
+                "owner": "facebookresearch",
+                "repo": "PAHF",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2026-02-28] [arXiv 2026] InfoPO: Information-Driven Policy Optimization for User-Centric Agents",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1150432631,
+                "language": "Python",
+                "last_commit": "2026-03-16T13:49:56Z",
+                "owner": "kfq20",
+                "repo": "InfoPO",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2026-03-21] [arXiv 2026] User Preference Modeling for Conversational LLM Agents: Weak Rewards from Retrieval-Augmented Interaction (VARS)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185765832,
+                "language": "Python",
+                "last_commit": "2026-03-24T14:51:36Z",
+                "owner": "YurenHao0426",
+                "repo": "VARS",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "💬 Conversation System"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2025-04-11] [arXiv 2025] MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 936035561,
+                "language": "Python",
+                "last_commit": "2026-05-08T15:04:42Z",
+                "owner": "microsoft",
+                "repo": "mineworld",
+                "stars": 489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2023-09-18] [ICLR 2024] MindAgent: Emergent Gaming Interaction",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693859540,
+                "language": "Python",
+                "last_commit": "2024-06-12T19:10:40Z",
+                "owner": "mindagent",
+                "repo": "mindagent",
+                "stars": 102
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🎮 Gaming"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2025-07-28] [arXiv 2025] GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 799863312,
+                "language": "Python",
+                "last_commit": "2026-04-20T02:09:09Z",
+                "owner": "Liu-Hy",
+                "repo": "GenoMAS",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2025-04-13] [arXiv 2025] EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 964132329,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-04-15T05:14:32Z",
+                "owner": "1akaman",
+                "repo": "EmoAgent",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🏥 Healthcare, Medicine"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2025-06-09] [arXiv 2025] τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 999222244,
+                "language": "Python",
+                "last_commit": "2026-08-18T17:07:54Z",
+                "owner": "sierra-research",
+                "repo": "tau2-bench",
+                "stars": 1823
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2024-06-18] [ICLR 2025] τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811477986,
+                "language": "Python",
+                "last_commit": "2026-03-18T17:36:06Z",
+                "owner": "sierra-research",
+                "repo": "tau-bench",
+                "stars": 1390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2026-05-26] [arXiv 2026] VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1250013724,
+                "language": "Python",
+                "last_commit": "2026-07-14T06:40:35Z",
+                "owner": "meituan-longcat",
+                "repo": "VitaBench-2.0",
+                "stars": 62
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🛍️ Retail, Telecom"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2025-06-09] [arXiv 2025] τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 999222244,
+                "language": "Python",
+                "last_commit": "2026-08-18T17:07:54Z",
+                "owner": "sierra-research",
+                "repo": "tau2-bench",
+                "stars": 1823
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2024-06-18] [ICLR 2025] τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811477986,
+                "language": "Python",
+                "last_commit": "2026-03-18T17:36:06Z",
+                "owner": "sierra-research",
+                "repo": "tau-bench",
+                "stars": 1390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2025-07-29] [arXiv 2025] UserBench: An Interactive Gym Environment for User-Centric Agents",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1026907522,
+                "language": "Python",
+                "last_commit": "2026-06-02T18:57:11Z",
+                "owner": "SalesforceAIResearch",
+                "repo": "UserBench",
+                "stars": 66
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🛩️ Travel"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2025-05-16] [arXiv 2025] XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991244644,
+                "language": "Python",
+                "last_commit": "2026-04-23T09:19:43Z",
+                "owner": "NuoJohnChen",
+                "repo": "XtraGPT",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2026-03-02] [arXiv 2026] ViviDoc: Generating Interactive Documents through Human-Agent Collaboration",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1113734514,
+                "language": "HTML",
+                "last_commit": "2026-06-09T14:01:31Z",
+                "owner": "MisterBrookT",
+                "repo": "vividoc",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2025-05-21] [arXiv 2025] Prototypical Human-AI Collaboration Behaviors from LLM-Assisted Writing in the Wild",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 992823885,
+                "language": null,
+                "last_commit": "2025-09-19T20:52:29Z",
+                "owner": "microsoft",
+                "repo": "prototypical-hai-collaborations",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "✍️ Writing"
+        }
+      ],
       "title": "📚 Applications, Datasets & Benchmarks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[2026-03-20] [arXiv 2026] LiveClawBench: Benchmarking LLM Agents on Complex, Real-World Assistant Tasks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-04T07:02:36Z",
-            "owner": "Mosi-AI",
-            "repo": "LiveClawBench",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2026-04-01] [arXiv 2026] When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-09T05:33:23Z",
-            "owner": "HenryPengZou",
-            "repo": "InterruptBench",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "💻 Web Navigation & Computer Use"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[2025-07-30] [arXiv 2025] Magentic-UI: Towards Human-in-the-loop Agentic Systems",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T23:47:19Z",
-            "owner": "microsoft",
-            "repo": "magentic-ui",
-            "stars": 10067
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2025-03-19] [arXiv 2025] SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-05T18:35:45Z",
-            "owner": "facebookresearch",
-            "repo": "sweet_rl",
-            "stars": 271
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023-06-26] [NeurIPS 2023] InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-05T23:42:59Z",
-            "owner": "princeton-nlp",
-            "repo": "intercode",
-            "stars": 254
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023-09-19] [ICLR 2024] MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-04T04:01:10Z",
-            "owner": "xingyaoww",
-            "repo": "mint-bench",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2025-10-07] [arXiv 2025] RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-06T20:47:22Z",
-            "owner": "ChunyuMiao98",
-            "repo": "RECODE-H",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2026-06-11] [arXiv 2026] Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents (TRACE)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-07T09:19:47Z",
-            "owner": "YujunZhou",
-            "repo": "tellonce",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2025-02-27] [ICLR 2025] ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-28T00:45:04Z",
-            "owner": "stovecat",
-            "repo": "convcodeworld",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "👨🏻‍💻 Software Engineering, Coding"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[2024-10-31] [ICLR 2025] PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-08T07:36:41Z",
-            "owner": "facebookresearch",
-            "repo": "partnr-planner",
-            "stars": 381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023-07-05] [ICLR 2024] Building Cooperative Embodied Agents Modularly with Large Language Models",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-30T15:18:28Z",
-            "owner": "UMass-Embodied-AGI",
-            "repo": "CoELA",
-            "stars": 306
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023-07-04] [arXiv 2023] Embodied Task Planning with Large Language Models",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-08-22T12:36:24Z",
-            "owner": "Gary3410",
-            "repo": "TaPA",
-            "stars": 195
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023-09-19] [ICLR 2024] MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-04T04:01:10Z",
-            "owner": "xingyaoww",
-            "repo": "mint-bench",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023-04-21] [EACL 2024 Findings] Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-08-31T00:08:18Z",
-            "owner": "microsoft",
-            "repo": "iglu-datasets",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2026-07-07] [arXiv 2026] LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T14:40:47Z",
-            "owner": "wcx21",
-            "repo": "deliberative-collaboration-agents",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "🤖 Embodied AI, Robotics"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[2025-05-24] [ICLR 2025] Learning to Clarify: Multi-turn Conversations with Action-Based Contrastive Self-Training",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-16T18:45:46Z",
-            "owner": "google-research",
-            "repo": "google-research",
-            "stars": 38575
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2024-08-27] [EMNLP 2024] Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-30T18:07:21Z",
-            "owner": "stanford-oval",
-            "repo": "storm",
-            "stars": 31058
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2024-02-08] [arXiv 2024] WebLINX: Real-World Website Navigation with Multi-Turn Dialogue",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T18:12:27Z",
-            "owner": "McGill-NLP",
-            "repo": "weblinx",
-            "stars": 163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023-09-19] [ICLR 2024] MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-04T04:01:10Z",
-            "owner": "xingyaoww",
-            "repo": "mint-bench",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2025-09-24] [arXiv 2025] UserRL: Training Proactive User-Centric Agent via Reinforcement Learning",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-02T18:57:33Z",
-            "owner": "SalesforceAIResearch",
-            "repo": "UserRL",
-            "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2026-05-26] [arXiv 2026] VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-14T06:40:35Z",
-            "owner": "meituan-longcat",
-            "repo": "VitaBench-2.0",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2026-02-18] [arXiv 2026] Learning Personalized Agents from Human Feedback",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-26T08:12:12Z",
-            "owner": "facebookresearch",
-            "repo": "PAHF",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2026-02-28] [arXiv 2026] InfoPO: Information-Driven Policy Optimization for User-Centric Agents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-16T13:49:56Z",
-            "owner": "kfq20",
-            "repo": "InfoPO",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2026-03-21] [arXiv 2026] User Preference Modeling for Conversational LLM Agents: Weak Rewards from Retrieval-Augmented Interaction (VARS)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-24T14:51:36Z",
-            "owner": "YurenHao0426",
-            "repo": "VARS",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "💬 Conversation System"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[2025-04-11] [arXiv 2025] MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-08T15:04:42Z",
-            "owner": "microsoft",
-            "repo": "mineworld",
-            "stars": 489
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023-09-18] [ICLR 2024] MindAgent: Emergent Gaming Interaction",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-12T19:10:40Z",
-            "owner": "mindagent",
-            "repo": "mindagent",
-            "stars": 102
-          }
-        }
-      ],
-      "title": "🎮 Gaming"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[2025-07-28] [arXiv 2025] GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-20T02:09:09Z",
-            "owner": "Liu-Hy",
-            "repo": "GenoMAS",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2025-04-13] [arXiv 2025] EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-04-15T05:14:32Z",
-            "owner": "1akaman",
-            "repo": "EmoAgent",
-            "stars": 25
-          }
-        }
-      ],
-      "title": "🏥 Healthcare, Medicine"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[2025-06-09] [arXiv 2025] τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T17:07:54Z",
-            "owner": "sierra-research",
-            "repo": "tau2-bench",
-            "stars": 1819
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2024-06-18] [ICLR 2025] τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T17:36:06Z",
-            "owner": "sierra-research",
-            "repo": "tau-bench",
-            "stars": 1388
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2026-05-26] [arXiv 2026] VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-14T06:40:35Z",
-            "owner": "meituan-longcat",
-            "repo": "VitaBench-2.0",
-            "stars": 62
-          }
-        }
-      ],
-      "title": "🛍️ Retail, Telecom"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[2025-06-09] [arXiv 2025] τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T17:07:54Z",
-            "owner": "sierra-research",
-            "repo": "tau2-bench",
-            "stars": 1819
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2024-06-18] [ICLR 2025] τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T17:36:06Z",
-            "owner": "sierra-research",
-            "repo": "tau-bench",
-            "stars": 1388
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2025-07-29] [arXiv 2025] UserBench: An Interactive Gym Environment for User-Centric Agents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-02T18:57:11Z",
-            "owner": "SalesforceAIResearch",
-            "repo": "UserBench",
-            "stars": 66
-          }
-        }
-      ],
-      "title": "🛩️ Travel"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[2025-05-16] [arXiv 2025] XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-23T09:19:43Z",
-            "owner": "NuoJohnChen",
-            "repo": "XtraGPT",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2026-03-02] [arXiv 2026] ViviDoc: Generating Interactive Documents through Human-Agent Collaboration",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-06-09T14:01:31Z",
-            "owner": "MisterBrookT",
-            "repo": "vividoc",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2025-05-21] [arXiv 2025] Prototypical Human-AI Collaboration Behaviors from LLM-Assisted Writing in the Wild",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-09-19T20:52:29Z",
-            "owner": "microsoft",
-            "repo": "prototypical-hai-collaborations",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "✍️ Writing"
-    },
-    {
-      "description": "(©️click here back to table of contents👆🏻)\nFor a detailed introduction of the taxonomy, please refer to Section 3 in our survey paper: LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey.\n",
-      "items": [],
-      "title": "🔍 Taxonomy"
-    },
-    {
-      "description": "(©️click here back to table of contents👆🏻)\nHuman Feedback can occur during different phases in various types and granularities. In the following table, we summarize different dimensions of Human Feedback in LLM-based human-agent systems, including feedback type, granularity, and phase. For each dimension, a summary, key characteristics, and example works are provided for comparison. More details are in Section 3.2 of our survey paper.\n",
-      "items": [],
-      "title": "🤝 Human Feedback"
-    },
-    {
-      "description": "(©️click here back to table of contents👆🏻)",
-      "items": [],
-      "title": "🔄 Interaction"
-    },
-    {
-      "description": "(©️click here back to table of contents👆🏻)",
-      "items": [],
-      "title": "🎛️ Orchestration"
-    },
-    {
-      "description": "(©️click here back to table of contents👆🏻)",
-      "items": [],
-      "title": "💬 Communication"
-    },
-    {
-      "description": "(©️click here back to table of contents👆🏻)\nContributions are welcome! If you have relevant papers, code, or insights, feel free to submit a request 🤗.",
-      "items": [],
-      "title": "📌 Contributing"
-    },
-    {
-      "description": "(©️click here back to table of contents👆🏻)\nIf you find this repository useful, please consider citing our papers 💕:\nThe survey has been accepted to ACL 2026; the BibTeX below will be updated to the proceedings entry once it is available.",
-      "items": [],
-      "title": "📝 Citation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "⭐ Star History"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:27:54.818Z",
+    "last_updated": "2026-08-19T12:07:35.681Z",
     "original_repository": "HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems",
+    "original_repository_id": 971037997,
     "original_repository_sha": "7b3ba9deefe99172748582f6025d995ccc2a6f86",
     "enhanced_repository": "enhansome/enhansome-Awesome-Human-Agent-Collaboration-Interaction-Systems",
     "enhanced_repository_description": null,
