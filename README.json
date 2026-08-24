@@ -15,7 +15,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69967
+            "stars": 69996
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38606
+            "stars": 38611
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-09-30T18:07:21Z",
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31113
+            "stars": 31124
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-18T17:07:54Z",
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 1854
+            "stars": 1862
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-03-18T17:36:06Z",
             "owner": "sierra-research",
             "repo": "tau-bench",
-            "stars": 1399
+            "stars": 1402
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-04-08T07:36:41Z",
             "owner": "facebookresearch",
             "repo": "partnr-planner",
-            "stars": 382
+            "stars": 383
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2023-08-22T12:36:24Z",
             "owner": "Gary3410",
             "repo": "TaPA",
-            "stars": 195
+            "stars": 196
           }
         },
         {
@@ -982,7 +982,7 @@
                 "last_commit": "2026-04-08T07:36:41Z",
                 "owner": "facebookresearch",
                 "repo": "partnr-planner",
-                "stars": 382
+                "stars": 383
               }
             },
             {
@@ -997,7 +997,7 @@
                 "last_commit": "2025-03-30T15:18:28Z",
                 "owner": "UMass-Embodied-AGI",
                 "repo": "CoELA",
-                "stars": 306
+                "stars": 307
               }
             },
             {
@@ -1012,7 +1012,7 @@
                 "last_commit": "2023-08-22T12:36:24Z",
                 "owner": "Gary3410",
                 "repo": "TaPA",
-                "stars": 195
+                "stars": 196
               }
             },
             {
@@ -1079,7 +1079,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38606
+                "stars": 38611
               }
             },
             {
@@ -1094,7 +1094,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31113
+                "stars": 31124
               }
             },
             {
@@ -1211,6 +1211,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "[2026-06-07] [arXiv 2026] PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1257669641,
+                "language": "Python",
+                "last_commit": "2026-07-27T05:24:08Z",
+                "owner": "WhymustIhaveaname",
+                "repo": "PerspectiveGap",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "📊 Data Science, Scientific Discovery"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "[2025-04-11] [arXiv 2025] MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft",
               "description": null,
               "children": [],
@@ -1295,7 +1317,7 @@
                 "last_commit": "2026-08-18T17:07:54Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1854
+                "stars": 1862
               }
             },
             {
@@ -1310,7 +1332,7 @@
                 "last_commit": "2026-03-18T17:36:06Z",
                 "owner": "sierra-research",
                 "repo": "tau-bench",
-                "stars": 1399
+                "stars": 1402
               }
             },
             {
@@ -1347,7 +1369,7 @@
                 "last_commit": "2026-08-18T17:07:54Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1854
+                "stars": 1862
               }
             },
             {
@@ -1362,7 +1384,7 @@
                 "last_commit": "2026-03-18T17:36:06Z",
                 "owner": "sierra-research",
                 "repo": "tau-bench",
-                "stars": 1399
+                "stars": 1402
               }
             },
             {
@@ -1439,10 +1461,2579 @@
         }
       ],
       "title": "📚 Applications, Datasets & Benchmarks"
+    },
+    {
+      "description": "(©️click here back to table of contents👆🏻)\nFor a detailed introduction of the taxonomy, please refer to Section 3 in our survey paper: LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability",
+              "description": "2026/07 Guidance, Evaluative Critique, Binary Assessment Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1273169619,
+                "language": "Python",
+                "last_commit": "2026-07-24T14:40:47Z",
+                "owner": "wcx21",
+                "repo": "deliberative-collaboration-agents",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents (TRACE)",
+              "description": "2026/06 Corrective, Guidance Refinement, Critique Segment During Task, Post Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1222821644,
+                "language": "Python",
+                "last_commit": "2026-08-07T09:19:47Z",
+                "owner": "YujunZhou",
+                "repo": "tellonce",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
+              "description": "2026/05 Implicit, Guidance User Action, Demonstration Segment Initial Setup, During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1250013724,
+                "language": "Python",
+                "last_commit": "2026-07-14T06:40:35Z",
+                "owner": "meituan-longcat",
+                "repo": "VitaBench-2.0",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation (InterruptBench)",
+              "description": "2026/04 Corrective, Guidance Refinement, Critique Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1190115225,
+                "language": "Python",
+                "last_commit": "2026-07-09T05:33:23Z",
+                "owner": "HenryPengZou",
+                "repo": "InterruptBench",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "User Preference Modeling for Conversational LLM Agents: Weak Rewards from Retrieval-Augmented Interaction (VARS)",
+              "description": "2026/03 Evaluative, Implicit Scalar Rating, User Action Segment During Task, Post Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185765832,
+                "language": "Python",
+                "last_commit": "2026-03-24T14:51:36Z",
+                "owner": "YurenHao0426",
+                "repo": "VARS",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LiveClawBench: Benchmarking LLM Agents on Complex, Real-World Assistant Tasks",
+              "description": "2026/03 Implicit, Guidance User Action, Demonstration Segment Initial Setup, During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1178733551,
+                "language": "Python",
+                "last_commit": "2026-07-04T07:02:36Z",
+                "owner": "Mosi-AI",
+                "repo": "LiveClawBench",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ViviDoc: Generating Interactive Documents through Human-Agent Collaboration",
+              "description": "2026/03 Corrective, Guidance Refinement, Demonstration Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1113734514,
+                "language": "HTML",
+                "last_commit": "2026-06-09T14:01:31Z",
+                "owner": "MisterBrookT",
+                "repo": "vividoc",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfoPO: Information-Driven Policy Optimization for User-Centric Agents",
+              "description": "2026/02 Guidance, Implicit Demonstration, User Action Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1150432631,
+                "language": "Python",
+                "last_commit": "2026-03-16T13:49:56Z",
+                "owner": "kfq20",
+                "repo": "InfoPO",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning Personalized Agents from Human Feedback",
+              "description": "2026/02 Guidance, Corrective, Evaluative Critique, Refinement, Preference Ranking Segment Initial Setup, During Task, Post Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1129882882,
+                "language": "Python",
+                "last_commit": "2026-04-26T08:12:12Z",
+                "owner": "facebookresearch",
+                "repo": "PAHF",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Training Proactive and Personalized LLM Agents",
+              "description": "2025/11 Guidance, Evaluative Scalar Rating, Refinements Segment, Holistic During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1087898279,
+                "language": "Python",
+                "last_commit": "2026-01-20T20:30:36Z",
+                "owner": "sunnweiwei",
+                "repo": "PPP-Agent",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Training LLM Agents to Empower Humans",
+              "description": "2025/10 Implicit, Corrective User Action, Refinements Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1071043084,
+                "language": "Python",
+                "last_commit": "2025-10-06T19:40:28Z",
+                "owner": "festusev",
+                "repo": "codegen_empowerment",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback",
+              "description": "2025/10 Guidance, Corrective Refinements, Critique, Demonstration Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1066671106,
+                "language": "Python",
+                "last_commit": "2026-04-06T20:47:22Z",
+                "owner": "ChunyuMiao98",
+                "repo": "RECODE-H",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UserRL: Training Proactive User-Centric Agent via Reinforcement Learning",
+              "description": "2025/09 Evaluative, Guidance, Implicit Scalar Rating, Refinements, Critique Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1059666158,
+                "language": "Python",
+                "last_commit": "2026-06-02T18:57:33Z",
+                "owner": "SalesforceAIResearch",
+                "repo": "UserRL",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use",
+              "description": "2025/08 Evaluative, Guidance Binary Assessment, Refinement Holistic Initial Setup, During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1044035004,
+                "language": "Python",
+                "last_commit": "2025-11-05T05:46:27Z",
+                "owner": "zzwkk",
+                "repo": "MUA-RL",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Magentic-UI: Towards Human-in-the-loop Agentic Systems",
+              "description": "2025/07 Evaluative, Corrective, Guidance, Implicit Binary Assessment, Refinement, Critique, User Action Segment During Task, Post Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 978331188,
+                "language": "Python",
+                "last_commit": "2026-08-19T23:48:08Z",
+                "owner": "microsoft",
+                "repo": "magentic-ui",
+                "stars": 10074
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UserBench: An Interactive Gym Environment for User-Centric Agents",
+              "description": "2025/07 Implicit, Guidance User Action, Refinement Segment Initial Setup, During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1026907522,
+                "language": "Python",
+                "last_commit": "2026-06-02T18:57:11Z",
+                "owner": "SalesforceAIResearch",
+                "repo": "UserBench",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance",
+              "description": "2025/07 Corrective, Guidance Refinement, Critique Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 985797688,
+                "language": "Python",
+                "last_commit": "2025-05-18T14:52:06Z",
+                "owner": "yf-he",
+                "repo": "aria",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
+              "description": "2025/06 Evaluative, Implicit Binary Assessment, User Action Segment, Holistic Initial Setup, During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 999222244,
+                "language": "Python",
+                "last_commit": "2026-08-18T17:07:54Z",
+                "owner": "sierra-research",
+                "repo": "tau2-bench",
+                "stars": 1862
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning to Clarify: Multi-turn Conversations with Action-Based Contrastive Self-Training",
+              "description": "2025/05 Corrective Refinement Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151619717,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-21T19:58:51Z",
+                "owner": "google-research",
+                "repo": "google-research",
+                "stars": 38611
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prototypical Human-AI Collaboration Behaviors from LLM-Assisted Writing in the Wild",
+              "description": "2025/05 Corrective, Guidance, Evaluative Refinement, Binary Assessment, Demonstration Segment, Holistic During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 992823885,
+                "language": null,
+                "last_commit": "2025-09-19T20:52:29Z",
+                "owner": "microsoft",
+                "repo": "prototypical-hai-collaborations",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision",
+              "description": "2025/05 Guidance, Evaluative Critique, Preference Ranking Segment Initial Setup, Post Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991244644,
+                "language": "Python",
+                "last_commit": "2026-04-23T09:19:43Z",
+                "owner": "NuoJohnChen",
+                "repo": "XtraGPT",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft",
+              "description": "2025/04 Evaluative Scalar Rating Holistic Post Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 936035561,
+                "language": "Python",
+                "last_commit": "2026-05-08T15:04:42Z",
+                "owner": "microsoft",
+                "repo": "mineworld",
+                "stars": 489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks",
+              "description": "2025/03 Corrective, Implicit Refinement, User Action Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 950247407,
+                "language": "Python",
+                "last_commit": "2025-05-05T18:35:45Z",
+                "owner": "facebookresearch",
+                "repo": "sweet_rl",
+                "stars": 271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration",
+              "description": "2025/02 Guidance Critique Holistic During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 933539007,
+                "language": "Python",
+                "last_commit": "2025-11-22T11:47:40Z",
+                "owner": "sjtu-marl",
+                "repo": "DPT-Agent",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments",
+              "description": "2025/02 Guidance Demonstration, Critique Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 940303424,
+                "language": "Python",
+                "last_commit": "2025-02-28T00:45:04Z",
+                "owner": "stovecat",
+                "repo": "convcodeworld",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration (Co-Gym)",
+              "description": "2024/12 Corrective Refinement Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 905409187,
+                "language": "Python",
+                "last_commit": "2026-08-20T19:21:47Z",
+                "owner": "SALT-NLP",
+                "repo": "collaborative-gym",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension",
+              "description": "2024/12 Guidance Demonstration Holistic Initial Setup, During Task, Post Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 899113060,
+                "language": "Java",
+                "last_commit": "2025-06-27T11:11:45Z",
+                "owner": "BESSER-PEARL",
+                "repo": "agentic-bpmn",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions",
+              "description": "2024/10 Implicit, Guidance Demonstration, User Action Holistic Initial Setup, During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 772400342,
+                "language": "Python",
+                "last_commit": "2025-08-01T18:51:30Z",
+                "owner": "HRI-EU",
+                "repo": "AttentiveSupport",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks",
+              "description": "2024/10 Corrective, Guidance Refinement, Critique Holistic, Segment During Task, Post Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 879929968,
+                "language": "Python",
+                "last_commit": "2026-04-08T07:36:41Z",
+                "owner": "facebookresearch",
+                "repo": "partnr-planner",
+                "stars": 383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment",
+              "description": "2024/09 Implicit Human Control Holistic Initial Setup",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 853679830,
+                "language": "Python",
+                "last_commit": "2025-06-19T08:23:12Z",
+                "owner": "AssistantX-Agent",
+                "repo": "AssistantX",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations",
+              "description": "2024/08 Guidance Demonstration Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776854298,
+                "language": "Python",
+                "last_commit": "2025-09-30T18:07:21Z",
+                "owner": "stanford-oval",
+                "repo": "storm",
+                "stars": 31124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning",
+              "description": "2024/06 Evaluative Binary Assessment Holistic During Task, Post Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 817660183,
+                "language": "Python",
+                "last_commit": "2025-02-22T06:07:42Z",
+                "owner": "DigiRL-agent",
+                "repo": "digirl",
+                "stars": 394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Autonomous Evaluation and Refinement of Digital Agents",
+              "description": "2024/04 Evaluative Binary Assessment Holistic Post Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 783188590,
+                "language": "Python",
+                "last_commit": "2024-11-26T00:16:58Z",
+                "owner": "Berkeley-NLP",
+                "repo": "Agent-Eval-Refine",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration",
+              "description": "2024/04 Guidance, Corrective Demonstration, Refinement Segment Initial Setup",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 779949674,
+                "language": "TypeScript",
+                "last_commit": "2024-04-19T02:19:24Z",
+                "owner": "AgentCoord",
+                "repo": "AgentCoord",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embodied LLM Agents Learn to Cooperate in Organized Teams",
+              "description": "2024/03 Guidance Critique Holistic During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 790976382,
+                "language": "Python",
+                "last_commit": "2025-06-11T02:13:05Z",
+                "owner": "tobeatraceur",
+                "repo": "Organized-LLM-Agents",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Large Language Model-based Human-Agent Collaboration for Complex Task Solving",
+              "description": "2024/02 Implicit Human Control Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 713439138,
+                "language": "Python",
+                "last_commit": "2024-09-20T02:52:11Z",
+                "owner": "XueyangFeng",
+                "repo": "ReHAC",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebLINX: Real-World Website Navigation with Multi-Turn Dialogue",
+              "description": "2024/02 Guidance Demonstration Holistic, Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754785216,
+                "language": "Python",
+                "last_commit": "2026-08-16T18:12:27Z",
+                "owner": "McGill-NLP",
+                "repo": "weblinx",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ask-before-Plan: Proactive Language Agents for Real-World Planning",
+              "description": "2024/01 Guidance Demonstration, Critique Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 816830532,
+                "language": "Python",
+                "last_commit": "2025-07-28T17:00:17Z",
+                "owner": "magicgh",
+                "repo": "Ask-before-Plan",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination",
+              "description": "2023/12 Guidance, Corrective Demonstration, Refinement Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 727090822,
+                "language": "Python",
+                "last_commit": "2024-01-09T04:34:28Z",
+                "owner": "HosnLS",
+                "repo": "Hierarchical-Language-Agent",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MindAgent: Emergent Gaming Interaction",
+              "description": "2023/09 Corrective Refinement Segment During Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693859540,
+                "language": "Python",
+                "last_commit": "2024-06-12T19:10:40Z",
+                "owner": "mindagent",
+                "repo": "mindagent",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework",
+              "description": "2023/08 Evaluative, Guidance Binary Assessment Holistic Initial Setup, Post Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 660551251,
+                "language": "Python",
+                "last_commit": "2026-01-21T10:12:33Z",
+                "owner": "FoundationAgents",
+                "repo": "MetaGPT",
+                "stars": 69996
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embodied Task Planning with Large Language Models",
+              "description": "2023/07 Guidance, Evaluative Demonstration, Binary Assessment Holistic, Segment Initial Setup, Post Task",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661732596,
+                "language": "Python",
+                "last_commit": "2023-08-22T12:36:24Z",
+                "owner": "Gary3410",
+                "repo": "TaPA",
+                "stars": 196
+              }
+            }
+          ],
+          "description": "(©️click here back to table of contents👆🏻)\nHuman Feedback can occur during different phases in various types and granularities. In the following table, we summarize different dimensions of Human Feedback in LLM-based human-agent systems, including feedback type, granularity, and phase. For each dimension, a summary, key characteristics, and example works are provided for comparison. More details are in Section 3.2 of our survey paper.",
+          "node_type": "group",
+          "title": "🤝 Human Feedback"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability",
+              "description": "2026/07 Collaboration Cooperation, Coordination",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1273169619,
+                "language": "Python",
+                "last_commit": "2026-07-24T14:40:47Z",
+                "owner": "wcx21",
+                "repo": "deliberative-collaboration-agents",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents (TRACE)",
+              "description": "2026/06 Collaboration Supervision, Cooperation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1222821644,
+                "language": "Python",
+                "last_commit": "2026-08-07T09:19:47Z",
+                "owner": "YujunZhou",
+                "repo": "tellonce",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
+              "description": "2026/05 Collaboration Cooperation, Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1250013724,
+                "language": "Python",
+                "last_commit": "2026-07-14T06:40:35Z",
+                "owner": "meituan-longcat",
+                "repo": "VitaBench-2.0",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation (InterruptBench)",
+              "description": "2026/04 Collaboration Supervision, Cooperation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1190115225,
+                "language": "Python",
+                "last_commit": "2026-07-09T05:33:23Z",
+                "owner": "HenryPengZou",
+                "repo": "InterruptBench",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "User Preference Modeling for Conversational LLM Agents: Weak Rewards from Retrieval-Augmented Interaction (VARS)",
+              "description": "2026/03 Collaboration Cooperation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185765832,
+                "language": "Python",
+                "last_commit": "2026-03-24T14:51:36Z",
+                "owner": "YurenHao0426",
+                "repo": "VARS",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LiveClawBench: Benchmarking LLM Agents on Complex, Real-World Assistant Tasks",
+              "description": "2026/03 Collaboration Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1178733551,
+                "language": "Python",
+                "last_commit": "2026-07-04T07:02:36Z",
+                "owner": "Mosi-AI",
+                "repo": "LiveClawBench",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ViviDoc: Generating Interactive Documents through Human-Agent Collaboration",
+              "description": "2026/03 Collaboration Cooperation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1113734514,
+                "language": "HTML",
+                "last_commit": "2026-06-09T14:01:31Z",
+                "owner": "MisterBrookT",
+                "repo": "vividoc",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfoPO: Information-Driven Policy Optimization for User-Centric Agents",
+              "description": "2026/02 Collaboration Cooperation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1150432631,
+                "language": "Python",
+                "last_commit": "2026-03-16T13:49:56Z",
+                "owner": "kfq20",
+                "repo": "InfoPO",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning Personalized Agents from Human Feedback",
+              "description": "2026/02 Collaboration Cooperation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1129882882,
+                "language": "Python",
+                "last_commit": "2026-04-26T08:12:12Z",
+                "owner": "facebookresearch",
+                "repo": "PAHF",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Training Proactive and Personalized LLM Agents",
+              "description": "2025/11 Collaboration Cooperation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1087898279,
+                "language": "Python",
+                "last_commit": "2026-01-20T20:30:36Z",
+                "owner": "sunnweiwei",
+                "repo": "PPP-Agent",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Training LLM Agents to Empower Humans",
+              "description": "2025/10 Collaboration Cooperation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1071043084,
+                "language": "Python",
+                "last_commit": "2025-10-06T19:40:28Z",
+                "owner": "festusev",
+                "repo": "codegen_empowerment",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback",
+              "description": "2025/10 Collaboration Supervision, Cooperation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1066671106,
+                "language": "Python",
+                "last_commit": "2026-04-06T20:47:22Z",
+                "owner": "ChunyuMiao98",
+                "repo": "RECODE-H",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UserRL: Training Proactive User-Centric Agent via Reinforcement Learning",
+              "description": "2025/09 Collaboration Supervision, Cooperation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1059666158,
+                "language": "Python",
+                "last_commit": "2026-06-02T18:57:33Z",
+                "owner": "SalesforceAIResearch",
+                "repo": "UserRL",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use",
+              "description": "2025/08 Collaboration Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1044035004,
+                "language": "Python",
+                "last_commit": "2025-11-05T05:46:27Z",
+                "owner": "zzwkk",
+                "repo": "MUA-RL",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Magentic-UI: Towards Human-in-the-loop Agentic Systems",
+              "description": "2025/07 Collaboration Cooperation, Coordination",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 978331188,
+                "language": "Python",
+                "last_commit": "2026-08-19T23:48:08Z",
+                "owner": "microsoft",
+                "repo": "magentic-ui",
+                "stars": 10074
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UserBench: An Interactive Gym Environment for User-Centric Agents",
+              "description": "2025/07 Collaboration Cooperation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1026907522,
+                "language": "Python",
+                "last_commit": "2026-06-02T18:57:11Z",
+                "owner": "SalesforceAIResearch",
+                "repo": "UserBench",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance",
+              "description": "2025/07 Collaboration Supervision",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 985797688,
+                "language": "Python",
+                "last_commit": "2025-05-18T14:52:06Z",
+                "owner": "yf-he",
+                "repo": "aria",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
+              "description": "2025/06 Collaboration Cooperation, Coordination",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 999222244,
+                "language": "Python",
+                "last_commit": "2026-08-18T17:07:54Z",
+                "owner": "sierra-research",
+                "repo": "tau2-bench",
+                "stars": 1862
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning to Clarify: Multi-turn Conversations with Action-Based Contrastive Self-Training",
+              "description": "2025/05 Collaboration Cooperation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151619717,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-21T19:58:51Z",
+                "owner": "google-research",
+                "repo": "google-research",
+                "stars": 38611
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prototypical Human-AI Collaboration Behaviors from LLM-Assisted Writing in the Wild",
+              "description": "2025/05 Collaboration Supervision, Cooperation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 992823885,
+                "language": null,
+                "last_commit": "2025-09-19T20:52:29Z",
+                "owner": "microsoft",
+                "repo": "prototypical-hai-collaborations",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision",
+              "description": "2025/05 Collaboration Delegation, Supervision",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991244644,
+                "language": "Python",
+                "last_commit": "2026-04-23T09:19:43Z",
+                "owner": "NuoJohnChen",
+                "repo": "XtraGPT",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MineWorld: A Real-Time and Open-Source Interactive World Model on Minecraft",
+              "description": "2025/04 Collaboration Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 936035561,
+                "language": "Python",
+                "last_commit": "2026-05-08T15:04:42Z",
+                "owner": "microsoft",
+                "repo": "mineworld",
+                "stars": 489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks",
+              "description": "2025/03 Collaboration Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 950247407,
+                "language": "Python",
+                "last_commit": "2025-05-05T18:35:45Z",
+                "owner": "facebookresearch",
+                "repo": "sweet_rl",
+                "stars": 271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments",
+              "description": "2025/02 Collaboration Supervision, Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 940303424,
+                "language": "Python",
+                "last_commit": "2025-02-28T00:45:04Z",
+                "owner": "stovecat",
+                "repo": "convcodeworld",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration",
+              "description": "2025/02 Collaboration -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 933539007,
+                "language": "Python",
+                "last_commit": "2025-11-22T11:47:40Z",
+                "owner": "sjtu-marl",
+                "repo": "DPT-Agent",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration (Co-Gym)",
+              "description": "2024/12 Collaboration Supervision, Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 905409187,
+                "language": "Python",
+                "last_commit": "2026-08-20T19:21:47Z",
+                "owner": "SALT-NLP",
+                "repo": "collaborative-gym",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension",
+              "description": "2024/12 Collaboration Coordination",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 899113060,
+                "language": "Java",
+                "last_commit": "2025-06-27T11:11:45Z",
+                "owner": "BESSER-PEARL",
+                "repo": "agentic-bpmn",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions",
+              "description": "2024/10 Collaboration Coordination",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 772400342,
+                "language": "Python",
+                "last_commit": "2025-08-01T18:51:30Z",
+                "owner": "HRI-EU",
+                "repo": "AttentiveSupport",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-Agent Tasks",
+              "description": "2024/10 Collaboration Coordination, Cooperation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 879929968,
+                "language": "Python",
+                "last_commit": "2026-04-08T07:36:41Z",
+                "owner": "facebookresearch",
+                "repo": "partnr-planner",
+                "stars": 383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AssistantX: An Proactive Assistant in Collaborative Human-Populated Environment",
+              "description": "2024/09 Collaboration Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 853679830,
+                "language": "Python",
+                "last_commit": "2025-06-19T08:23:12Z",
+                "owner": "AssistantX-Agent",
+                "repo": "AssistantX",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations",
+              "description": "2024/08 Collaboration Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776854298,
+                "language": "Python",
+                "last_commit": "2025-09-30T18:07:21Z",
+                "owner": "stanford-oval",
+                "repo": "storm",
+                "stars": 31124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning",
+              "description": "2024/06 Collaboration Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 817660183,
+                "language": "Python",
+                "last_commit": "2025-02-22T06:07:42Z",
+                "owner": "DigiRL-agent",
+                "repo": "digirl",
+                "stars": 394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration",
+              "description": "2024/04 Collaboration Coordination",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 779949674,
+                "language": "TypeScript",
+                "last_commit": "2024-04-19T02:19:24Z",
+                "owner": "AgentCoord",
+                "repo": "AgentCoord",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Autonomous Evaluation and Refinement of Digital Agents",
+              "description": "2024/04 Collaboration Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 783188590,
+                "language": "Python",
+                "last_commit": "2024-11-26T00:16:58Z",
+                "owner": "Berkeley-NLP",
+                "repo": "Agent-Eval-Refine",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embodied LLM Agents Learn to Cooperate in Organized Teams",
+              "description": "2024/03 Collaboration Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 790976382,
+                "language": "Python",
+                "last_commit": "2025-06-11T02:13:05Z",
+                "owner": "tobeatraceur",
+                "repo": "Organized-LLM-Agents",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Large Language Model-based Human-Agent Collaboration for Complex Task Solving",
+              "description": "2024/02 Collaboration Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 713439138,
+                "language": "Python",
+                "last_commit": "2024-09-20T02:52:11Z",
+                "owner": "XueyangFeng",
+                "repo": "ReHAC",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebLINX: Real-World Website Navigation with Multi-Turn Dialogue",
+              "description": "2024/02 Collaboration Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754785216,
+                "language": "Python",
+                "last_commit": "2026-08-16T18:12:27Z",
+                "owner": "McGill-NLP",
+                "repo": "weblinx",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ask-before-Plan: Proactive Language Agents for Real-World Planning",
+              "description": "2024/01 Collaboration Coordination",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 816830532,
+                "language": "Python",
+                "last_commit": "2025-07-28T17:00:17Z",
+                "owner": "magicgh",
+                "repo": "Ask-before-Plan",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination",
+              "description": "2023/12 Collaboration Supervision, Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 727090822,
+                "language": "Python",
+                "last_commit": "2024-01-09T04:34:28Z",
+                "owner": "HosnLS",
+                "repo": "Hierarchical-Language-Agent",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MindAgent: Emergent Gaming Interaction",
+              "description": "2023/09 Collaboration Coordination",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693859540,
+                "language": "Python",
+                "last_commit": "2024-06-12T19:10:40Z",
+                "owner": "mindagent",
+                "repo": "mindagent",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework",
+              "description": "2023/08 Collaboration Coordination",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 660551251,
+                "language": "Python",
+                "last_commit": "2026-01-21T10:12:33Z",
+                "owner": "FoundationAgents",
+                "repo": "MetaGPT",
+                "stars": 69996
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embodied Task Planning with Large Language Models",
+              "description": "2023/07 Collaboration Delegation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661732596,
+                "language": "Python",
+                "last_commit": "2023-08-22T12:36:24Z",
+                "owner": "Gary3410",
+                "repo": "TaPA",
+                "stars": 196
+              }
+            }
+          ],
+          "description": "(©️click here back to table of contents👆🏻)",
+          "node_type": "group",
+          "title": "🔄 Interaction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability",
+              "description": "2026/07 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1273169619,
+                "language": "Python",
+                "last_commit": "2026-07-24T14:40:47Z",
+                "owner": "wcx21",
+                "repo": "deliberative-collaboration-agents",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting",
+              "description": "2026/06 Simultaneous Asynchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1257669641,
+                "language": "Python",
+                "last_commit": "2026-07-27T05:24:08Z",
+                "owner": "WhymustIhaveaname",
+                "repo": "PerspectiveGap",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents (TRACE)",
+              "description": "2026/06 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1222821644,
+                "language": "Python",
+                "last_commit": "2026-08-07T09:19:47Z",
+                "owner": "YujunZhou",
+                "repo": "tellonce",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
+              "description": "2026/05 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1250013724,
+                "language": "Python",
+                "last_commit": "2026-07-14T06:40:35Z",
+                "owner": "meituan-longcat",
+                "repo": "VitaBench-2.0",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation (InterruptBench)",
+              "description": "2026/04 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1190115225,
+                "language": "Python",
+                "last_commit": "2026-07-09T05:33:23Z",
+                "owner": "HenryPengZou",
+                "repo": "InterruptBench",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "User Preference Modeling for Conversational LLM Agents: Weak Rewards from Retrieval-Augmented Interaction (VARS)",
+              "description": "2026/03 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185765832,
+                "language": "Python",
+                "last_commit": "2026-03-24T14:51:36Z",
+                "owner": "YurenHao0426",
+                "repo": "VARS",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LiveClawBench: Benchmarking LLM Agents on Complex, Real-World Assistant Tasks",
+              "description": "2026/03 One-by-One Asynchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1178733551,
+                "language": "Python",
+                "last_commit": "2026-07-04T07:02:36Z",
+                "owner": "Mosi-AI",
+                "repo": "LiveClawBench",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ViviDoc: Generating Interactive Documents through Human-Agent Collaboration",
+              "description": "2026/03 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1113734514,
+                "language": "HTML",
+                "last_commit": "2026-06-09T14:01:31Z",
+                "owner": "MisterBrookT",
+                "repo": "vividoc",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfoPO: Information-Driven Policy Optimization for User-Centric Agents",
+              "description": "2026/02 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1150432631,
+                "language": "Python",
+                "last_commit": "2026-03-16T13:49:56Z",
+                "owner": "kfq20",
+                "repo": "InfoPO",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning Personalized Agents from Human Feedback",
+              "description": "2026/02 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1129882882,
+                "language": "Python",
+                "last_commit": "2026-04-26T08:12:12Z",
+                "owner": "facebookresearch",
+                "repo": "PAHF",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Training Proactive and Personalized LLM Agents",
+              "description": "2025/11 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1087898279,
+                "language": "Python",
+                "last_commit": "2026-01-20T20:30:36Z",
+                "owner": "sunnweiwei",
+                "repo": "PPP-Agent",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Training LLM Agents to Empower Humans",
+              "description": "2025/10 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1071043084,
+                "language": "Python",
+                "last_commit": "2025-10-06T19:40:28Z",
+                "owner": "festusev",
+                "repo": "codegen_empowerment",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback",
+              "description": "2025/10 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1066671106,
+                "language": "Python",
+                "last_commit": "2026-04-06T20:47:22Z",
+                "owner": "ChunyuMiao98",
+                "repo": "RECODE-H",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UserRL: Training Proactive User-Centric Agent via Reinforcement Learning",
+              "description": "2025/09 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1059666158,
+                "language": "Python",
+                "last_commit": "2026-06-02T18:57:33Z",
+                "owner": "SalesforceAIResearch",
+                "repo": "UserRL",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use",
+              "description": "2025/08 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1044035004,
+                "language": "Python",
+                "last_commit": "2025-11-05T05:46:27Z",
+                "owner": "zzwkk",
+                "repo": "MUA-RL",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Magentic-UI: Towards Human-in-the-loop Agentic Systems",
+              "description": "2025/07 Simultaneous Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 978331188,
+                "language": "Python",
+                "last_commit": "2026-08-19T23:48:08Z",
+                "owner": "microsoft",
+                "repo": "magentic-ui",
+                "stars": 10074
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UserBench: An Interactive Gym Environment for User-Centric Agents",
+              "description": "2025/07 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1026907522,
+                "language": "Python",
+                "last_commit": "2026-06-02T18:57:11Z",
+                "owner": "SalesforceAIResearch",
+                "repo": "UserBench",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance",
+              "description": "2025/07 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 985797688,
+                "language": "Python",
+                "last_commit": "2025-05-18T14:52:06Z",
+                "owner": "yf-he",
+                "repo": "aria",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
+              "description": "2025/06 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 999222244,
+                "language": "Python",
+                "last_commit": "2026-08-18T17:07:54Z",
+                "owner": "sierra-research",
+                "repo": "tau2-bench",
+                "stars": 1862
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning to Clarify: Multi-turn Conversations with Action-Based Contrastive Self-Training",
+              "description": "2025/05 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151619717,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-21T19:58:51Z",
+                "owner": "google-research",
+                "repo": "google-research",
+                "stars": 38611
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prototypical Human-AI Collaboration Behaviors from LLM-Assisted Writing in the Wild",
+              "description": "2025/05 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 992823885,
+                "language": null,
+                "last_commit": "2025-09-19T20:52:29Z",
+                "owner": "microsoft",
+                "repo": "prototypical-hai-collaborations",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision",
+              "description": "2025/05 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991244644,
+                "language": "Python",
+                "last_commit": "2026-04-23T09:19:43Z",
+                "owner": "NuoJohnChen",
+                "repo": "XtraGPT",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MineWorld: A Real-Time and Open-Source Interactive World Model on Minecraft",
+              "description": "2025/04 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 936035561,
+                "language": "Python",
+                "last_commit": "2026-05-08T15:04:42Z",
+                "owner": "microsoft",
+                "repo": "mineworld",
+                "stars": 489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks",
+              "description": "2025/03 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 950247407,
+                "language": "Python",
+                "last_commit": "2025-05-05T18:35:45Z",
+                "owner": "facebookresearch",
+                "repo": "sweet_rl",
+                "stars": 271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments",
+              "description": "2025/02 One-by-One Asynchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 940303424,
+                "language": "Python",
+                "last_commit": "2025-02-28T00:45:04Z",
+                "owner": "stovecat",
+                "repo": "convcodeworld",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration",
+              "description": "2025/02 Simultaneous Asynchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 933539007,
+                "language": "Python",
+                "last_commit": "2025-11-22T11:47:40Z",
+                "owner": "sjtu-marl",
+                "repo": "DPT-Agent",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration (Co-Gym)",
+              "description": "2024/12 One-by-One Asynchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 905409187,
+                "language": "Python",
+                "last_commit": "2026-08-20T19:21:47Z",
+                "owner": "SALT-NLP",
+                "repo": "collaborative-gym",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension",
+              "description": "2024/12 One-by-One Asynchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 899113060,
+                "language": "Java",
+                "last_commit": "2025-06-27T11:11:45Z",
+                "owner": "BESSER-PEARL",
+                "repo": "agentic-bpmn",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions",
+              "description": "2024/10 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 772400342,
+                "language": "Python",
+                "last_commit": "2025-08-01T18:51:30Z",
+                "owner": "HRI-EU",
+                "repo": "AttentiveSupport",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-Agent Tasks",
+              "description": "2024/10 One-by-One Asynchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 879929968,
+                "language": "Python",
+                "last_commit": "2026-04-08T07:36:41Z",
+                "owner": "facebookresearch",
+                "repo": "partnr-planner",
+                "stars": 383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment",
+              "description": "2024/09 One-by-One Asynchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 853679830,
+                "language": "Python",
+                "last_commit": "2025-06-19T08:23:12Z",
+                "owner": "AssistantX-Agent",
+                "repo": "AssistantX",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations",
+              "description": "2024/08 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776854298,
+                "language": "Python",
+                "last_commit": "2025-09-30T18:07:21Z",
+                "owner": "stanford-oval",
+                "repo": "storm",
+                "stars": 31124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning",
+              "description": "2024/06 One-by-One Asynchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 817660183,
+                "language": "Python",
+                "last_commit": "2025-02-22T06:07:42Z",
+                "owner": "DigiRL-agent",
+                "repo": "digirl",
+                "stars": 394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration",
+              "description": "2024/04 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 779949674,
+                "language": "TypeScript",
+                "last_commit": "2024-04-19T02:19:24Z",
+                "owner": "AgentCoord",
+                "repo": "AgentCoord",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Autonomous Evaluation and Refinement of Digital Agents",
+              "description": "2024/04 One-by-One Asynchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 783188590,
+                "language": "Python",
+                "last_commit": "2024-11-26T00:16:58Z",
+                "owner": "Berkeley-NLP",
+                "repo": "Agent-Eval-Refine",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embodied LLM Agents Learn to Cooperate in Organized Teams",
+              "description": "2024/03 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 790976382,
+                "language": "Python",
+                "last_commit": "2025-06-11T02:13:05Z",
+                "owner": "tobeatraceur",
+                "repo": "Organized-LLM-Agents",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Large Language Model-based Human-Agent Collaboration for Complex Task Solving",
+              "description": "2024/02 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 713439138,
+                "language": "Python",
+                "last_commit": "2024-09-20T02:52:11Z",
+                "owner": "XueyangFeng",
+                "repo": "ReHAC",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebLINX: Real-World Website Navigation with Multi-Turn Dialogue",
+              "description": "2024/02 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754785216,
+                "language": "Python",
+                "last_commit": "2026-08-16T18:12:27Z",
+                "owner": "McGill-NLP",
+                "repo": "weblinx",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ask-before-Plan: Proactive Language Agents for Real-World Planning",
+              "description": "2024/01 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 816830532,
+                "language": "Python",
+                "last_commit": "2025-07-28T17:00:17Z",
+                "owner": "magicgh",
+                "repo": "Ask-before-Plan",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination",
+              "description": "2023/12 Simultaneous Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 727090822,
+                "language": "Python",
+                "last_commit": "2024-01-09T04:34:28Z",
+                "owner": "HosnLS",
+                "repo": "Hierarchical-Language-Agent",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MindAgent: Emergent Gaming Interaction",
+              "description": "2023/09 One-by-One Synchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693859540,
+                "language": "Python",
+                "last_commit": "2024-06-12T19:10:40Z",
+                "owner": "mindagent",
+                "repo": "mindagent",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework",
+              "description": "2023/08 One-by-One Asynchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 660551251,
+                "language": "Python",
+                "last_commit": "2026-01-21T10:12:33Z",
+                "owner": "FoundationAgents",
+                "repo": "MetaGPT",
+                "stars": 69996
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embodied Task Planning with Large Language Models",
+              "description": "2023/07 One-by-One Asynchronous",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661732596,
+                "language": "Python",
+                "last_commit": "2023-08-22T12:36:24Z",
+                "owner": "Gary3410",
+                "repo": "TaPA",
+                "stars": 196
+              }
+            }
+          ],
+          "description": "(©️click here back to table of contents👆🏻)",
+          "node_type": "group",
+          "title": "🎛️ Orchestration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability",
+              "description": "2026/07 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1273169619,
+                "language": "Python",
+                "last_commit": "2026-07-24T14:40:47Z",
+                "owner": "wcx21",
+                "repo": "deliberative-collaboration-agents",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents (TRACE)",
+              "description": "2026/06 Hierarchical Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1222821644,
+                "language": "Python",
+                "last_commit": "2026-08-07T09:19:47Z",
+                "owner": "YujunZhou",
+                "repo": "tellonce",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
+              "description": "2026/05 Centralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1250013724,
+                "language": "Python",
+                "last_commit": "2026-07-14T06:40:35Z",
+                "owner": "meituan-longcat",
+                "repo": "VitaBench-2.0",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation (InterruptBench)",
+              "description": "2026/04 Centralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1190115225,
+                "language": "Python",
+                "last_commit": "2026-07-09T05:33:23Z",
+                "owner": "HenryPengZou",
+                "repo": "InterruptBench",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "User Preference Modeling for Conversational LLM Agents: Weak Rewards from Retrieval-Augmented Interaction (VARS)",
+              "description": "2026/03 Centralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185765832,
+                "language": "Python",
+                "last_commit": "2026-03-24T14:51:36Z",
+                "owner": "YurenHao0426",
+                "repo": "VARS",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LiveClawBench: Benchmarking LLM Agents on Complex, Real-World Assistant Tasks",
+              "description": "2026/03 Centralized Observation, Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1178733551,
+                "language": "Python",
+                "last_commit": "2026-07-04T07:02:36Z",
+                "owner": "Mosi-AI",
+                "repo": "LiveClawBench",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ViviDoc: Generating Interactive Documents through Human-Agent Collaboration",
+              "description": "2026/03 Hierarchical Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1113734514,
+                "language": "HTML",
+                "last_commit": "2026-06-09T14:01:31Z",
+                "owner": "MisterBrookT",
+                "repo": "vividoc",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfoPO: Information-Driven Policy Optimization for User-Centric Agents",
+              "description": "2026/02 Centralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1150432631,
+                "language": "Python",
+                "last_commit": "2026-03-16T13:49:56Z",
+                "owner": "kfq20",
+                "repo": "InfoPO",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning Personalized Agents from Human Feedback",
+              "description": "2026/02 Centralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1129882882,
+                "language": "Python",
+                "last_commit": "2026-04-26T08:12:12Z",
+                "owner": "facebookresearch",
+                "repo": "PAHF",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Training Proactive and Personalized LLM Agents",
+              "description": "2025/11 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1087898279,
+                "language": "Python",
+                "last_commit": "2026-01-20T20:30:36Z",
+                "owner": "sunnweiwei",
+                "repo": "PPP-Agent",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Training LLM Agents to Empower Humans",
+              "description": "2025/10 Hierarchical Conversation, Observation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1071043084,
+                "language": "Python",
+                "last_commit": "2025-10-06T19:40:28Z",
+                "owner": "festusev",
+                "repo": "codegen_empowerment",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback",
+              "description": "2025/10 Hierarchical Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1066671106,
+                "language": "Python",
+                "last_commit": "2026-04-06T20:47:22Z",
+                "owner": "ChunyuMiao98",
+                "repo": "RECODE-H",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UserRL: Training Proactive User-Centric Agent via Reinforcement Learning",
+              "description": "2025/09 Hierarchical Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1059666158,
+                "language": "Python",
+                "last_commit": "2026-06-02T18:57:33Z",
+                "owner": "SalesforceAIResearch",
+                "repo": "UserRL",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use",
+              "description": "2025/08 Hierarchical Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1044035004,
+                "language": "Python",
+                "last_commit": "2025-11-05T05:46:27Z",
+                "owner": "zzwkk",
+                "repo": "MUA-RL",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Magentic-UI: Towards Human-in-the-loop Agentic Systems",
+              "description": "2025/07 Hierarchical, Centralized Conversation, Observation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 978331188,
+                "language": "Python",
+                "last_commit": "2026-08-19T23:48:08Z",
+                "owner": "microsoft",
+                "repo": "magentic-ui",
+                "stars": 10074
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UserBench: An Interactive Gym Environment for User-Centric Agents",
+              "description": "2025/07 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1026907522,
+                "language": "Python",
+                "last_commit": "2026-06-02T18:57:11Z",
+                "owner": "SalesforceAIResearch",
+                "repo": "UserBench",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance",
+              "description": "2025/07 Hierarchical Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 985797688,
+                "language": "Python",
+                "last_commit": "2025-05-18T14:52:06Z",
+                "owner": "yf-he",
+                "repo": "aria",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
+              "description": "2025/06 Decentralized Conversation, Observation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 999222244,
+                "language": "Python",
+                "last_commit": "2026-08-18T17:07:54Z",
+                "owner": "sierra-research",
+                "repo": "tau2-bench",
+                "stars": 1862
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning to Clarify: Multi-turn Conversations with Action-Based Contrastive Self-Training",
+              "description": "2025/05 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151619717,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-21T19:58:51Z",
+                "owner": "google-research",
+                "repo": "google-research",
+                "stars": 38611
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prototypical Human-AI Collaboration Behaviors from LLM-Assisted Writing in the Wild",
+              "description": "2025/05 Centralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 992823885,
+                "language": null,
+                "last_commit": "2025-09-19T20:52:29Z",
+                "owner": "microsoft",
+                "repo": "prototypical-hai-collaborations",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision",
+              "description": "2025/05 Centralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991244644,
+                "language": "Python",
+                "last_commit": "2026-04-23T09:19:43Z",
+                "owner": "NuoJohnChen",
+                "repo": "XtraGPT",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MineWorld: A Real-Time and Open-Source Interactive World Model on Minecraft",
+              "description": "2025/04 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 936035561,
+                "language": "Python",
+                "last_commit": "2026-05-08T15:04:42Z",
+                "owner": "microsoft",
+                "repo": "mineworld",
+                "stars": 489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks",
+              "description": "2025/03 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 950247407,
+                "language": "Python",
+                "last_commit": "2025-05-05T18:35:45Z",
+                "owner": "facebookresearch",
+                "repo": "sweet_rl",
+                "stars": 271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments",
+              "description": "2025/02 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 940303424,
+                "language": "Python",
+                "last_commit": "2025-02-28T00:45:04Z",
+                "owner": "stovecat",
+                "repo": "convcodeworld",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration",
+              "description": "2025/02 Decentralized Observation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 933539007,
+                "language": "Python",
+                "last_commit": "2025-11-22T11:47:40Z",
+                "owner": "sjtu-marl",
+                "repo": "DPT-Agent",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension",
+              "description": "2024/12 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 899113060,
+                "language": "Java",
+                "last_commit": "2025-06-27T11:11:45Z",
+                "owner": "BESSER-PEARL",
+                "repo": "agentic-bpmn",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration (Co-Gym)",
+              "description": "2024/12 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 905409187,
+                "language": "Python",
+                "last_commit": "2026-08-20T19:21:47Z",
+                "owner": "SALT-NLP",
+                "repo": "collaborative-gym",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions",
+              "description": "2024/10 Decentralized Observation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 772400342,
+                "language": "Python",
+                "last_commit": "2025-08-01T18:51:30Z",
+                "owner": "HRI-EU",
+                "repo": "AttentiveSupport",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-Agent Tasks",
+              "description": "2024/10 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 879929968,
+                "language": "Python",
+                "last_commit": "2026-04-08T07:36:41Z",
+                "owner": "facebookresearch",
+                "repo": "partnr-planner",
+                "stars": 383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment",
+              "description": "2024/09 Decentralized Message Pool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 853679830,
+                "language": "Python",
+                "last_commit": "2025-06-19T08:23:12Z",
+                "owner": "AssistantX-Agent",
+                "repo": "AssistantX",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations",
+              "description": "2024/08 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776854298,
+                "language": "Python",
+                "last_commit": "2025-09-30T18:07:21Z",
+                "owner": "stanford-oval",
+                "repo": "storm",
+                "stars": 31124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning",
+              "description": "2024/06 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 817660183,
+                "language": "Python",
+                "last_commit": "2025-02-22T06:07:42Z",
+                "owner": "DigiRL-agent",
+                "repo": "digirl",
+                "stars": 394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration",
+              "description": "2024/04 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 779949674,
+                "language": "TypeScript",
+                "last_commit": "2024-04-19T02:19:24Z",
+                "owner": "AgentCoord",
+                "repo": "AgentCoord",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Autonomous Evaluation and Refinement of Digital Agents",
+              "description": "2024/04 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 783188590,
+                "language": "Python",
+                "last_commit": "2024-11-26T00:16:58Z",
+                "owner": "Berkeley-NLP",
+                "repo": "Agent-Eval-Refine",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embodied LLM Agents Learn to Cooperate in Organized Teams",
+              "description": "2024/03 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 790976382,
+                "language": "Python",
+                "last_commit": "2025-06-11T02:13:05Z",
+                "owner": "tobeatraceur",
+                "repo": "Organized-LLM-Agents",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Large Language Model-based Human-Agent Collaboration for Complex Task Solving",
+              "description": "2024/02 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 713439138,
+                "language": "Python",
+                "last_commit": "2024-09-20T02:52:11Z",
+                "owner": "XueyangFeng",
+                "repo": "ReHAC",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebLINX: Real-World Website Navigation with Multi-Turn Dialogue",
+              "description": "2024/02 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754785216,
+                "language": "Python",
+                "last_commit": "2026-08-16T18:12:27Z",
+                "owner": "McGill-NLP",
+                "repo": "weblinx",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ask-before-Plan: Proactive Language Agents for Real-World Planning",
+              "description": "2024/01 Centralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 816830532,
+                "language": "Python",
+                "last_commit": "2025-07-28T17:00:17Z",
+                "owner": "magicgh",
+                "repo": "Ask-before-Plan",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination",
+              "description": "2023/12 Hierarchical Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 727090822,
+                "language": "Python",
+                "last_commit": "2024-01-09T04:34:28Z",
+                "owner": "HosnLS",
+                "repo": "Hierarchical-Language-Agent",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MindAgent: Emergent Gaming Interaction",
+              "description": "2023/09 Centralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693859540,
+                "language": "Python",
+                "last_commit": "2024-06-12T19:10:40Z",
+                "owner": "mindagent",
+                "repo": "mindagent",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework",
+              "description": "2023/08 Decentralized Message Pool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 660551251,
+                "language": "Python",
+                "last_commit": "2026-01-21T10:12:33Z",
+                "owner": "FoundationAgents",
+                "repo": "MetaGPT",
+                "stars": 69996
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embodied Task Planning with Large Language Models",
+              "description": "2023/07 Decentralized Conversation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661732596,
+                "language": "Python",
+                "last_commit": "2023-08-22T12:36:24Z",
+                "owner": "Gary3410",
+                "repo": "TaPA",
+                "stars": 196
+              }
+            }
+          ],
+          "description": "(©️click here back to table of contents👆🏻)",
+          "node_type": "group",
+          "title": "💬 Communication"
+        }
+      ],
+      "title": "🔍 Taxonomy"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:21:55.530Z",
+    "last_updated": "2026-08-24T14:32:18.565Z",
     "original_repository": "HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems",
     "original_repository_id": 971037997,
     "original_repository_sha": "7b3ba9deefe99172748582f6025d995ccc2a6f86",
