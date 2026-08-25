@@ -15,7 +15,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70008
+            "stars": 70017
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T19:58:51Z",
+            "last_commit": "2026-08-25T18:30:01Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38614
+            "stars": 38618
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-09-30T18:07:21Z",
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31124
+            "stars": 31130
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-19T23:48:08Z",
             "owner": "microsoft",
             "repo": "magentic-ui",
-            "stars": 10075
+            "stars": 10076
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-18T17:07:54Z",
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 1864
+            "stars": 1868
           }
         },
         {
@@ -870,7 +870,7 @@
                 "last_commit": "2026-08-19T23:48:08Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10075
+                "stars": 10076
               }
             },
             {
@@ -1076,10 +1076,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38618
               }
             },
             {
@@ -1094,7 +1094,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31124
+                "stars": 31130
               }
             },
             {
@@ -1317,7 +1317,7 @@
                 "last_commit": "2026-08-18T17:07:54Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1864
+                "stars": 1868
               }
             },
             {
@@ -1369,7 +1369,7 @@
                 "last_commit": "2026-08-18T17:07:54Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1864
+                "stars": 1868
               }
             },
             {
@@ -1689,7 +1689,7 @@
                 "last_commit": "2026-08-19T23:48:08Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10075
+                "stars": 10076
               }
             },
             {
@@ -1734,7 +1734,7 @@
                 "last_commit": "2026-08-18T17:07:54Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1864
+                "stars": 1868
               }
             },
             {
@@ -1746,10 +1746,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38618
               }
             },
             {
@@ -1929,7 +1929,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31124
+                "stars": 31130
               }
             },
             {
@@ -2079,7 +2079,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70008
+                "stars": 70017
               }
             },
             {
@@ -2326,7 +2326,7 @@
                 "last_commit": "2026-08-19T23:48:08Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10075
+                "stars": 10076
               }
             },
             {
@@ -2371,7 +2371,7 @@
                 "last_commit": "2026-08-18T17:07:54Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1864
+                "stars": 1868
               }
             },
             {
@@ -2383,10 +2383,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38618
               }
             },
             {
@@ -2566,7 +2566,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31124
+                "stars": 31130
               }
             },
             {
@@ -2716,7 +2716,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70008
+                "stars": 70017
               }
             },
             {
@@ -2978,7 +2978,7 @@
                 "last_commit": "2026-08-19T23:48:08Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10075
+                "stars": 10076
               }
             },
             {
@@ -3023,7 +3023,7 @@
                 "last_commit": "2026-08-18T17:07:54Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1864
+                "stars": 1868
               }
             },
             {
@@ -3035,10 +3035,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38618
               }
             },
             {
@@ -3218,7 +3218,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31124
+                "stars": 31130
               }
             },
             {
@@ -3368,7 +3368,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70008
+                "stars": 70017
               }
             },
             {
@@ -3615,7 +3615,7 @@
                 "last_commit": "2026-08-19T23:48:08Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10075
+                "stars": 10076
               }
             },
             {
@@ -3660,7 +3660,7 @@
                 "last_commit": "2026-08-18T17:07:54Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1864
+                "stars": 1868
               }
             },
             {
@@ -3672,10 +3672,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38618
               }
             },
             {
@@ -3855,7 +3855,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31124
+                "stars": 31130
               }
             },
             {
@@ -4005,7 +4005,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70008
+                "stars": 70017
               }
             },
             {
@@ -4033,7 +4033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:25:24.677Z",
+    "last_updated": "2026-08-25T19:32:00.571Z",
     "original_repository": "HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems",
     "original_repository_id": 971037997,
     "original_repository_sha": "7b3ba9deefe99172748582f6025d995ccc2a6f86",
