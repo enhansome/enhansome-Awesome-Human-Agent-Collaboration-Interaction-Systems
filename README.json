@@ -15,7 +15,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70050
+            "stars": 70062
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T18:30:01Z",
+            "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38624
+            "stars": 38630
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-09-30T18:07:21Z",
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31133
+            "stars": 31139
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 978331188,
             "language": "Python",
-            "last_commit": "2026-08-19T23:48:08Z",
+            "last_commit": "2026-08-26T23:47:22Z",
             "owner": "microsoft",
             "repo": "magentic-ui",
             "stars": 10077
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 999222244,
             "language": "Python",
-            "last_commit": "2026-08-18T17:07:54Z",
+            "last_commit": "2026-08-27T00:08:35Z",
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 1882
+            "stars": 1890
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-03-18T17:36:06Z",
             "owner": "sierra-research",
             "repo": "tau-bench",
-            "stars": 1403
+            "stars": 1404
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-04-08T07:36:41Z",
             "owner": "facebookresearch",
             "repo": "partnr-planner",
-            "stars": 384
+            "stars": 385
           }
         },
         {
@@ -620,21 +620,6 @@
         },
         {
           "node_type": "item",
-          "title": "[2026-06-11] [arXiv 2026] Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents (TRACE)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1222821644,
-            "language": "Python",
-            "last_commit": "2026-08-07T09:19:47Z",
-            "owner": "YujunZhou",
-            "repo": "tellonce",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
           "title": "[2026-03-30] [arXiv 2026] ViviDoc: Generating Interactive Documents through Human-Agent Collaboration",
           "description": null,
           "children": [],
@@ -645,6 +630,21 @@
             "last_commit": "2026-06-09T14:01:31Z",
             "owner": "MisterBrookT",
             "repo": "vividoc",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026-06-11] [arXiv 2026] Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents (TRACE)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1222821644,
+            "language": "Python",
+            "last_commit": "2026-08-07T09:19:47Z",
+            "owner": "YujunZhou",
+            "repo": "tellonce",
             "stars": 7
           }
         },
@@ -867,7 +867,7 @@
                 "archived": false,
                 "id": 978331188,
                 "language": "Python",
-                "last_commit": "2026-08-19T23:48:08Z",
+                "last_commit": "2026-08-26T23:47:22Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
                 "stars": 10077
@@ -982,7 +982,7 @@
                 "last_commit": "2026-04-08T07:36:41Z",
                 "owner": "facebookresearch",
                 "repo": "partnr-planner",
-                "stars": 384
+                "stars": 385
               }
             },
             {
@@ -1076,10 +1076,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38624
+                "stars": 38630
               }
             },
             {
@@ -1094,7 +1094,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31133
+                "stars": 31139
               }
             },
             {
@@ -1314,10 +1314,10 @@
                 "archived": false,
                 "id": 999222244,
                 "language": "Python",
-                "last_commit": "2026-08-18T17:07:54Z",
+                "last_commit": "2026-08-27T00:08:35Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1882
+                "stars": 1890
               }
             },
             {
@@ -1332,7 +1332,7 @@
                 "last_commit": "2026-03-18T17:36:06Z",
                 "owner": "sierra-research",
                 "repo": "tau-bench",
-                "stars": 1403
+                "stars": 1404
               }
             },
             {
@@ -1366,10 +1366,10 @@
                 "archived": false,
                 "id": 999222244,
                 "language": "Python",
-                "last_commit": "2026-08-18T17:07:54Z",
+                "last_commit": "2026-08-27T00:08:35Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1882
+                "stars": 1890
               }
             },
             {
@@ -1384,7 +1384,7 @@
                 "last_commit": "2026-03-18T17:36:06Z",
                 "owner": "sierra-research",
                 "repo": "tau-bench",
-                "stars": 1403
+                "stars": 1404
               }
             },
             {
@@ -1436,7 +1436,7 @@
                 "last_commit": "2026-06-09T14:01:31Z",
                 "owner": "MisterBrookT",
                 "repo": "vividoc",
-                "stars": 7
+                "stars": 8
               }
             },
             {
@@ -1569,7 +1569,7 @@
                 "last_commit": "2026-06-09T14:01:31Z",
                 "owner": "MisterBrookT",
                 "repo": "vividoc",
-                "stars": 7
+                "stars": 8
               }
             },
             {
@@ -1686,7 +1686,7 @@
                 "archived": false,
                 "id": 978331188,
                 "language": "Python",
-                "last_commit": "2026-08-19T23:48:08Z",
+                "last_commit": "2026-08-26T23:47:22Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
                 "stars": 10077
@@ -1731,10 +1731,10 @@
                 "archived": false,
                 "id": 999222244,
                 "language": "Python",
-                "last_commit": "2026-08-18T17:07:54Z",
+                "last_commit": "2026-08-27T00:08:35Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1882
+                "stars": 1890
               }
             },
             {
@@ -1746,10 +1746,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38624
+                "stars": 38630
               }
             },
             {
@@ -1899,7 +1899,7 @@
                 "last_commit": "2026-04-08T07:36:41Z",
                 "owner": "facebookresearch",
                 "repo": "partnr-planner",
-                "stars": 384
+                "stars": 385
               }
             },
             {
@@ -1929,7 +1929,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31133
+                "stars": 31139
               }
             },
             {
@@ -2079,7 +2079,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70050
+                "stars": 70062
               }
             },
             {
@@ -2206,7 +2206,7 @@
                 "last_commit": "2026-06-09T14:01:31Z",
                 "owner": "MisterBrookT",
                 "repo": "vividoc",
-                "stars": 7
+                "stars": 8
               }
             },
             {
@@ -2323,7 +2323,7 @@
                 "archived": false,
                 "id": 978331188,
                 "language": "Python",
-                "last_commit": "2026-08-19T23:48:08Z",
+                "last_commit": "2026-08-26T23:47:22Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
                 "stars": 10077
@@ -2368,10 +2368,10 @@
                 "archived": false,
                 "id": 999222244,
                 "language": "Python",
-                "last_commit": "2026-08-18T17:07:54Z",
+                "last_commit": "2026-08-27T00:08:35Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1882
+                "stars": 1890
               }
             },
             {
@@ -2383,10 +2383,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38624
+                "stars": 38630
               }
             },
             {
@@ -2536,7 +2536,7 @@
                 "last_commit": "2026-04-08T07:36:41Z",
                 "owner": "facebookresearch",
                 "repo": "partnr-planner",
-                "stars": 384
+                "stars": 385
               }
             },
             {
@@ -2566,7 +2566,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31133
+                "stars": 31139
               }
             },
             {
@@ -2716,7 +2716,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70050
+                "stars": 70062
               }
             },
             {
@@ -2858,7 +2858,7 @@
                 "last_commit": "2026-06-09T14:01:31Z",
                 "owner": "MisterBrookT",
                 "repo": "vividoc",
-                "stars": 7
+                "stars": 8
               }
             },
             {
@@ -2975,7 +2975,7 @@
                 "archived": false,
                 "id": 978331188,
                 "language": "Python",
-                "last_commit": "2026-08-19T23:48:08Z",
+                "last_commit": "2026-08-26T23:47:22Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
                 "stars": 10077
@@ -3020,10 +3020,10 @@
                 "archived": false,
                 "id": 999222244,
                 "language": "Python",
-                "last_commit": "2026-08-18T17:07:54Z",
+                "last_commit": "2026-08-27T00:08:35Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1882
+                "stars": 1890
               }
             },
             {
@@ -3035,10 +3035,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38624
+                "stars": 38630
               }
             },
             {
@@ -3188,7 +3188,7 @@
                 "last_commit": "2026-04-08T07:36:41Z",
                 "owner": "facebookresearch",
                 "repo": "partnr-planner",
-                "stars": 384
+                "stars": 385
               }
             },
             {
@@ -3218,7 +3218,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31133
+                "stars": 31139
               }
             },
             {
@@ -3368,7 +3368,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70050
+                "stars": 70062
               }
             },
             {
@@ -3495,7 +3495,7 @@
                 "last_commit": "2026-06-09T14:01:31Z",
                 "owner": "MisterBrookT",
                 "repo": "vividoc",
-                "stars": 7
+                "stars": 8
               }
             },
             {
@@ -3612,7 +3612,7 @@
                 "archived": false,
                 "id": 978331188,
                 "language": "Python",
-                "last_commit": "2026-08-19T23:48:08Z",
+                "last_commit": "2026-08-26T23:47:22Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
                 "stars": 10077
@@ -3657,10 +3657,10 @@
                 "archived": false,
                 "id": 999222244,
                 "language": "Python",
-                "last_commit": "2026-08-18T17:07:54Z",
+                "last_commit": "2026-08-27T00:08:35Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1882
+                "stars": 1890
               }
             },
             {
@@ -3672,10 +3672,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38624
+                "stars": 38630
               }
             },
             {
@@ -3825,7 +3825,7 @@
                 "last_commit": "2026-04-08T07:36:41Z",
                 "owner": "facebookresearch",
                 "repo": "partnr-planner",
-                "stars": 384
+                "stars": 385
               }
             },
             {
@@ -3855,7 +3855,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31133
+                "stars": 31139
               }
             },
             {
@@ -4005,7 +4005,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70050
+                "stars": 70062
               }
             },
             {
@@ -4033,9 +4033,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:41:35.469Z",
-    "original_repository": "HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems",
-    "original_repository_id": 971037997,
+    "last_updated": "2026-08-27T11:24:35.602Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 971037997,
+      "language": null,
+      "last_commit": "2026-07-23T05:33:51Z",
+      "owner": "HenryPengZou",
+      "repo": "Awesome-Human-Agent-Collaboration-Interaction-Systems",
+      "stars": 233
+    },
     "original_repository_sha": "7b3ba9deefe99172748582f6025d995ccc2a6f86",
     "enhanced_repository": "enhansome/enhansome-Awesome-Human-Agent-Collaboration-Interaction-Systems",
     "enhanced_repository_description": null,
