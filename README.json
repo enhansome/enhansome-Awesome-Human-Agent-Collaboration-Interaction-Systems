@@ -15,7 +15,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70062
+            "stars": 70071
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
+            "stars": 38634
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-09-30T18:07:21Z",
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31139
+            "stars": 31142
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-26T23:47:22Z",
             "owner": "microsoft",
             "repo": "magentic-ui",
-            "stars": 10077
+            "stars": 10078
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-27T00:08:35Z",
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 1890
+            "stars": 1892
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-03-18T17:36:06Z",
             "owner": "sierra-research",
             "repo": "tau-bench",
-            "stars": 1404
+            "stars": 1405
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-05-12T08:51:07Z",
             "owner": "thunlp",
             "repo": "ProactiveAgent",
-            "stars": 654
+            "stars": 655
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-06-02T18:57:33Z",
             "owner": "SalesforceAIResearch",
             "repo": "UserRL",
-            "stars": 117
+            "stars": 118
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2026-04-23T09:19:43Z",
             "owner": "NuoJohnChen",
             "repo": "XtraGPT",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -870,7 +870,7 @@
                 "last_commit": "2026-08-26T23:47:22Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10077
+                "stars": 10078
               }
             },
             {
@@ -1079,7 +1079,7 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38630
+                "stars": 38634
               }
             },
             {
@@ -1094,7 +1094,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31139
+                "stars": 31142
               }
             },
             {
@@ -1139,7 +1139,7 @@
                 "last_commit": "2026-06-02T18:57:33Z",
                 "owner": "SalesforceAIResearch",
                 "repo": "UserRL",
-                "stars": 117
+                "stars": 118
               }
             },
             {
@@ -1317,7 +1317,7 @@
                 "last_commit": "2026-08-27T00:08:35Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1890
+                "stars": 1892
               }
             },
             {
@@ -1332,7 +1332,7 @@
                 "last_commit": "2026-03-18T17:36:06Z",
                 "owner": "sierra-research",
                 "repo": "tau-bench",
-                "stars": 1404
+                "stars": 1405
               }
             },
             {
@@ -1369,7 +1369,7 @@
                 "last_commit": "2026-08-27T00:08:35Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1890
+                "stars": 1892
               }
             },
             {
@@ -1384,7 +1384,7 @@
                 "last_commit": "2026-03-18T17:36:06Z",
                 "owner": "sierra-research",
                 "repo": "tau-bench",
-                "stars": 1404
+                "stars": 1405
               }
             },
             {
@@ -1421,7 +1421,7 @@
                 "last_commit": "2026-04-23T09:19:43Z",
                 "owner": "NuoJohnChen",
                 "repo": "XtraGPT",
-                "stars": 26
+                "stars": 27
               }
             },
             {
@@ -1659,7 +1659,7 @@
                 "last_commit": "2026-06-02T18:57:33Z",
                 "owner": "SalesforceAIResearch",
                 "repo": "UserRL",
-                "stars": 117
+                "stars": 118
               }
             },
             {
@@ -1689,7 +1689,7 @@
                 "last_commit": "2026-08-26T23:47:22Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10077
+                "stars": 10078
               }
             },
             {
@@ -1734,7 +1734,7 @@
                 "last_commit": "2026-08-27T00:08:35Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1890
+                "stars": 1892
               }
             },
             {
@@ -1749,7 +1749,7 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38630
+                "stars": 38634
               }
             },
             {
@@ -1779,7 +1779,7 @@
                 "last_commit": "2026-04-23T09:19:43Z",
                 "owner": "NuoJohnChen",
                 "repo": "XtraGPT",
-                "stars": 26
+                "stars": 27
               }
             },
             {
@@ -1929,7 +1929,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31139
+                "stars": 31142
               }
             },
             {
@@ -2079,7 +2079,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70062
+                "stars": 70071
               }
             },
             {
@@ -2296,7 +2296,7 @@
                 "last_commit": "2026-06-02T18:57:33Z",
                 "owner": "SalesforceAIResearch",
                 "repo": "UserRL",
-                "stars": 117
+                "stars": 118
               }
             },
             {
@@ -2326,7 +2326,7 @@
                 "last_commit": "2026-08-26T23:47:22Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10077
+                "stars": 10078
               }
             },
             {
@@ -2371,7 +2371,7 @@
                 "last_commit": "2026-08-27T00:08:35Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1890
+                "stars": 1892
               }
             },
             {
@@ -2386,7 +2386,7 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38630
+                "stars": 38634
               }
             },
             {
@@ -2416,7 +2416,7 @@
                 "last_commit": "2026-04-23T09:19:43Z",
                 "owner": "NuoJohnChen",
                 "repo": "XtraGPT",
-                "stars": 26
+                "stars": 27
               }
             },
             {
@@ -2566,7 +2566,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31139
+                "stars": 31142
               }
             },
             {
@@ -2716,7 +2716,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70062
+                "stars": 70071
               }
             },
             {
@@ -2948,7 +2948,7 @@
                 "last_commit": "2026-06-02T18:57:33Z",
                 "owner": "SalesforceAIResearch",
                 "repo": "UserRL",
-                "stars": 117
+                "stars": 118
               }
             },
             {
@@ -2978,7 +2978,7 @@
                 "last_commit": "2026-08-26T23:47:22Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10077
+                "stars": 10078
               }
             },
             {
@@ -3023,7 +3023,7 @@
                 "last_commit": "2026-08-27T00:08:35Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1890
+                "stars": 1892
               }
             },
             {
@@ -3038,7 +3038,7 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38630
+                "stars": 38634
               }
             },
             {
@@ -3068,7 +3068,7 @@
                 "last_commit": "2026-04-23T09:19:43Z",
                 "owner": "NuoJohnChen",
                 "repo": "XtraGPT",
-                "stars": 26
+                "stars": 27
               }
             },
             {
@@ -3218,7 +3218,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31139
+                "stars": 31142
               }
             },
             {
@@ -3368,7 +3368,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70062
+                "stars": 70071
               }
             },
             {
@@ -3585,7 +3585,7 @@
                 "last_commit": "2026-06-02T18:57:33Z",
                 "owner": "SalesforceAIResearch",
                 "repo": "UserRL",
-                "stars": 117
+                "stars": 118
               }
             },
             {
@@ -3615,7 +3615,7 @@
                 "last_commit": "2026-08-26T23:47:22Z",
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10077
+                "stars": 10078
               }
             },
             {
@@ -3660,7 +3660,7 @@
                 "last_commit": "2026-08-27T00:08:35Z",
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 1890
+                "stars": 1892
               }
             },
             {
@@ -3675,7 +3675,7 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38630
+                "stars": 38634
               }
             },
             {
@@ -3705,7 +3705,7 @@
                 "last_commit": "2026-04-23T09:19:43Z",
                 "owner": "NuoJohnChen",
                 "repo": "XtraGPT",
-                "stars": 26
+                "stars": 27
               }
             },
             {
@@ -3855,7 +3855,7 @@
                 "last_commit": "2025-09-30T18:07:21Z",
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31139
+                "stars": 31142
               }
             },
             {
@@ -4005,7 +4005,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70062
+                "stars": 70071
               }
             },
             {
@@ -4033,7 +4033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:24:35.602Z",
+    "last_updated": "2026-08-28T02:25:52.772Z",
     "original_repository_info": {
       "archived": false,
       "id": 971037997,
