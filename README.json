@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "[2023-08-01] [ICML 2023] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework",
-          "description": null,
+          "description": "FoundationAgents/MetaGPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
-            "open_issues": 145,
+            "open_issues": 144,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70718,
+            "stars": 70719,
             "topics": [
               "agent",
               "gpt",
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "[2025-05-24] [ICLR 2025] Learning to Clarify: Multi-turn Conversations with Action-Based Contrastive Self-Training",
-          "description": "[Code]",
+          "description": "google-research/google-research",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -58,7 +58,7 @@
         {
           "node_type": "item",
           "title": "[2024-08-27] [EMNLP 2024] Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations",
-          "description": null,
+          "description": "stanford-oval/storm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -89,7 +89,7 @@
         {
           "node_type": "item",
           "title": "[2025-07-30] [arXiv 2025] Magentic-UI: Towards Human-in-the-loop Agentic Systems",
-          "description": null,
+          "description": "microsoft/magentic-ui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -122,7 +122,7 @@
         {
           "node_type": "item",
           "title": "[2025-06-09] [arXiv 2025] τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
-          "description": null,
+          "description": "sierra-research/tau2-bench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -132,7 +132,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-28T19:42:48Z",
-            "open_issues": 244,
+            "open_issues": 251,
             "owner": "sierra-research",
             "repo": "tau2-bench",
             "stars": 2157,
@@ -149,7 +149,7 @@
         {
           "node_type": "item",
           "title": "[2024-06-18] [ICLR 2025] τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
-          "description": null,
+          "description": "sierra-research/tau-bench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,7 +170,7 @@
         {
           "node_type": "item",
           "title": "[2024-10-16] [ICLR 2025] Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance",
-          "description": null,
+          "description": "thunlp/ProactiveAgent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -191,7 +191,7 @@
         {
           "node_type": "item",
           "title": "[2025-04-11] [arXiv 2025] MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft",
-          "description": null,
+          "description": "microsoft/mineworld",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -212,7 +212,7 @@
         {
           "node_type": "item",
           "title": "[2024-06-14] [NeurIPS 2024] DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning",
-          "description": null,
+          "description": "DigiRL-agent/digirl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -233,7 +233,7 @@
         {
           "node_type": "item",
           "title": "[2024-10-31] [ICLR 2025] PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks",
-          "description": null,
+          "description": "facebookresearch/partnr-planner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -254,7 +254,7 @@
         {
           "node_type": "item",
           "title": "[2023-10-18] [ICLR 2024] SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents",
-          "description": null,
+          "description": "sotopia-lab/sotopia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -280,7 +280,7 @@
         {
           "node_type": "item",
           "title": "[2025-02-02] [ICML 2025] CollabLLM: From Passive Responders to Active Collaborators",
-          "description": null,
+          "description": "Wuyxin/collabllm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -301,7 +301,7 @@
         {
           "node_type": "item",
           "title": "[2025-03-19] [arXiv 2025] SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks",
-          "description": null,
+          "description": "facebookresearch/sweet_rl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -321,74 +321,8 @@
         },
         {
           "node_type": "item",
-          "title": "[2025-06-11] [arXiv 2025] A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ACL 2026] LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey | Awesome Human-Agent Collaboration | Human-AI Collaboration ",
-            "homepage": "https://arxiv.org/abs/2505.00753",
-            "id": 971037997,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-07-23T05:33:51Z",
-            "open_issues": 2,
-            "owner": "HenryPengZou",
-            "repo": "Awesome-Human-Agent-Collaboration-Interaction-Systems",
-            "stars": 236,
-            "topics": [
-              "agent",
-              "awesome-list",
-              "human-agent",
-              "human-agent-collaboration",
-              "human-agent-interaction",
-              "human-agent-systems",
-              "human-ai-collaboration",
-              "human-ai-systems",
-              "large-language-models",
-              "llm",
-              "llm-has"
-            ]
-          },
-          "first_seen": "2026-08-29T02:00:08.307Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[2025-05-01] [arXiv 2025] LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ACL 2026] LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey | Awesome Human-Agent Collaboration | Human-AI Collaboration ",
-            "homepage": "https://arxiv.org/abs/2505.00753",
-            "id": 971037997,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-07-23T05:33:51Z",
-            "open_issues": 2,
-            "owner": "HenryPengZou",
-            "repo": "Awesome-Human-Agent-Collaboration-Interaction-Systems",
-            "stars": 236,
-            "topics": [
-              "agent",
-              "awesome-list",
-              "human-agent",
-              "human-agent-collaboration",
-              "human-agent-interaction",
-              "human-agent-systems",
-              "human-ai-collaboration",
-              "human-ai-systems",
-              "large-language-models",
-              "llm",
-              "llm-has"
-            ]
-          },
-          "first_seen": "2026-08-29T02:00:08.307Z"
-        },
-        {
-          "node_type": "item",
           "title": "[2023-07-04] [ICML 2023] Embodied Task Planning with Large Language Models",
-          "description": null,
+          "description": "Gary3410/TaPA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -414,7 +348,7 @@
         {
           "node_type": "item",
           "title": "[2024-02-08] [arXiv 2024] WebLINX: Real-World Website Navigation with Multi-Turn Dialogue",
-          "description": null,
+          "description": "McGill-NLP/weblinx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -444,7 +378,7 @@
         {
           "node_type": "item",
           "title": "[2024-12-20] [arXiv 2024] Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration",
-          "description": null,
+          "description": "SALT-NLP/collaborative-gym",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -471,7 +405,7 @@
         {
           "node_type": "item",
           "title": "[2023-09-19] [ICLR 2024] MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback",
-          "description": null,
+          "description": "xingyaoww/mint-bench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -492,7 +426,7 @@
         {
           "node_type": "item",
           "title": "[2025-07-28] [arXiv 2025] GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis",
-          "description": null,
+          "description": "Liu-Hy/GenoMAS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -520,7 +454,7 @@
         {
           "node_type": "item",
           "title": "[2025-09-24] [arXiv 2025] UserRL: Training Proactive User-Centric Agent via Reinforcement Learning",
-          "description": null,
+          "description": "SalesforceAIResearch/UserRL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -541,7 +475,7 @@
         {
           "node_type": "item",
           "title": "[2024-02-07] [NeurIPS 2024] Can Large Language Model Agents Simulate Human Trust Behavior?",
-          "description": null,
+          "description": "camel-ai/agent-trust",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -562,7 +496,7 @@
         {
           "node_type": "item",
           "title": "[2025-11-04] [arXiv 2025] Training Proactive and Personalized LLM Agents",
-          "description": null,
+          "description": "sunnweiwei/PPP-Agent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -583,7 +517,7 @@
         {
           "node_type": "item",
           "title": "[2023-09-18] [NAACL 2024] MindAgent: Emergent Gaming Interaction",
-          "description": null,
+          "description": "mindagent/mindagent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -604,7 +538,7 @@
         {
           "node_type": "item",
           "title": "[2026-05-26] [arXiv 2026] VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
-          "description": null,
+          "description": "meituan-longcat/VitaBench-2.0",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -625,7 +559,7 @@
         {
           "node_type": "item",
           "title": "[2025-07-29] [arXiv 2025] UserBench: An Interactive Gym Environment for User-Centric Agents",
-          "description": null,
+          "description": "SalesforceAIResearch/UserBench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -646,7 +580,7 @@
         {
           "node_type": "item",
           "title": "[2025-08-26] [arXiv 2025] MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use",
-          "description": null,
+          "description": "zzwkk/MUA-RL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -667,7 +601,7 @@
         {
           "node_type": "item",
           "title": "[2025-02-17] [ACL 2025] Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration",
-          "description": null,
+          "description": "sjtu-marl/DPT-Agent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -688,7 +622,7 @@
         {
           "node_type": "item",
           "title": "[2026-02-18] [arXiv 2026] Learning Personalized Agents from Human Feedback",
-          "description": null,
+          "description": "facebookresearch/PAHF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -709,7 +643,7 @@
         {
           "node_type": "item",
           "title": "[2024-03-19] [arXiv 2024] Embodied LLM Agents Learn to Cooperate in Organized Teams",
-          "description": null,
+          "description": "tobeatraceur/Organized-LLM-Agents",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -730,7 +664,7 @@
         {
           "node_type": "item",
           "title": "[2024-04-23] [NeurIPS 2024] Aligning LLM Agents by Learning Latent Preference from User Edits",
-          "description": null,
+          "description": "gao-g/prelude",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -762,7 +696,7 @@
         {
           "node_type": "item",
           "title": "[2024-12-25] [IROS 2024] To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions",
-          "description": null,
+          "description": "HRI-EU/AttentiveSupport",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -787,7 +721,7 @@
         {
           "node_type": "item",
           "title": "[2025-06-06] [arXiv 2025] Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce",
-          "description": null,
+          "description": "SALT-NLP/workbank",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -814,7 +748,7 @@
         {
           "node_type": "item",
           "title": "[2025-05-16] [arXiv 2025] XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision",
-          "description": null,
+          "description": "NuoJohnChen/XtraGPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -835,7 +769,7 @@
         {
           "node_type": "item",
           "title": "[2025-04-13] [arXiv 2025] EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety",
-          "description": null,
+          "description": "1akaman/EmoAgent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -856,7 +790,7 @@
         {
           "node_type": "item",
           "title": "[2024-04-18] [arXiv 2024] AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration",
-          "description": null,
+          "description": "AgentCoord/AgentCoord",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -877,7 +811,7 @@
         {
           "node_type": "item",
           "title": "[2024-06-17] [EMNLP 2024] Ask-before-Plan: Proactive Language Agents for Real-World Planning",
-          "description": null,
+          "description": "magicgh/Ask-before-Plan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -898,7 +832,7 @@
         {
           "node_type": "item",
           "title": "[2026-03-20] [arXiv 2026] LiveClawBench: Benchmarking LLM Agents on Complex, Real-World Assistant Tasks",
-          "description": null,
+          "description": "Mosi-AI/LiveClawBench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -919,7 +853,7 @@
         {
           "node_type": "item",
           "title": "[2026-02-28] [arXiv 2026] InfoPO: Information-Driven Policy Optimization for User-Centric Agents",
-          "description": null,
+          "description": "kfq20/InfoPO",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -940,7 +874,7 @@
         {
           "node_type": "item",
           "title": "[2026-04-01] [arXiv 2026] When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation",
-          "description": null,
+          "description": "HenryPengZou/InterruptBench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -961,7 +895,7 @@
         {
           "node_type": "item",
           "title": "[2026-03-30] [arXiv 2026] ViviDoc: Generating Interactive Documents through Human-Agent Collaboration",
-          "description": null,
+          "description": "MisterBrookT/vividoc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -993,7 +927,7 @@
         {
           "node_type": "item",
           "title": "[2025-10-15] [arXiv 2025] Training LLM Agents to Empower Humans",
-          "description": null,
+          "description": "festusev/codegen_empowerment",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1014,7 +948,7 @@
         {
           "node_type": "item",
           "title": "[2026-06-11] [arXiv 2026] Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents (TRACE)",
-          "description": null,
+          "description": "YujunZhou/tellonce",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1046,7 +980,7 @@
         {
           "node_type": "item",
           "title": "[2025-07-23] [arXiv 2025] Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance",
-          "description": null,
+          "description": "yf-he/aria",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1067,7 +1001,7 @@
         {
           "node_type": "item",
           "title": "[2025-10-07] [arXiv 2025] RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback",
-          "description": null,
+          "description": "ChunyuMiao98/RECODE-H",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1088,7 +1022,7 @@
         {
           "node_type": "item",
           "title": "[2024-12-08] [arXiv 2024] Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension",
-          "description": null,
+          "description": "BESSER-PEARL/agentic-bpmn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1109,7 +1043,7 @@
         {
           "node_type": "item",
           "title": "[2024-10-30] [ICLR 2025] ACC-Collab: An Actor-Critic Approach to Multi-Agent LLM Collaboration",
-          "description": null,
+          "description": "LlenRotse/ACC-Collab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1130,7 +1064,7 @@
         {
           "node_type": "item",
           "title": "[2026-06-07] [arXiv 2026] PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting",
-          "description": null,
+          "description": "WhymustIhaveaname/PerspectiveGap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1151,7 +1085,7 @@
         {
           "node_type": "item",
           "title": "[2025-03-24] [ACL 2025 Findings] SPHERE: An Evaluation Card for Human-AI Systems",
-          "description": null,
+          "description": "sphere-eval/sphere-eval.github.io",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1172,7 +1106,7 @@
         {
           "node_type": "item",
           "title": "[2026-03-21] [arXiv 2026] User Preference Modeling for Conversational LLM Agents: Weak Rewards from Retrieval-Augmented Interaction (VARS)",
-          "description": null,
+          "description": "YurenHao0426/VARS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1193,7 +1127,7 @@
         {
           "node_type": "item",
           "title": "[2025-05-21] [arXiv 2025] Prototypical Human-AI Collaboration Behaviors from LLM-Assisted Writing in the Wild",
-          "description": null,
+          "description": "microsoft/prototypical-hai-collaborations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1214,7 +1148,7 @@
         {
           "node_type": "item",
           "title": "[2025-02-27] [ICLR 2025] ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments",
-          "description": null,
+          "description": "stovecat/convcodeworld",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1235,7 +1169,7 @@
         {
           "node_type": "item",
           "title": "[2026-07-07] [arXiv 2026] LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability",
-          "description": null,
+          "description": "wcx21/deliberative-collaboration-agents",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1256,7 +1190,7 @@
         {
           "node_type": "item",
           "title": "[2024-09-26] [arXiv 2024] AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment",
-          "description": null,
+          "description": "AssistantX-Agent/AssistantX",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1285,7 +1219,7 @@
             {
               "node_type": "item",
               "title": "[2026-03-20] [arXiv 2026] LiveClawBench: Benchmarking LLM Agents on Complex, Real-World Assistant Tasks",
-              "description": null,
+              "description": "Mosi-AI/LiveClawBench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1306,7 +1240,7 @@
             {
               "node_type": "item",
               "title": "[2026-04-01] [arXiv 2026] When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation",
-              "description": null,
+              "description": "HenryPengZou/InterruptBench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1334,7 +1268,7 @@
             {
               "node_type": "item",
               "title": "[2025-07-30] [arXiv 2025] Magentic-UI: Towards Human-in-the-loop Agentic Systems",
-              "description": null,
+              "description": "microsoft/magentic-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1367,7 +1301,7 @@
             {
               "node_type": "item",
               "title": "[2025-03-19] [arXiv 2025] SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks",
-              "description": null,
+              "description": "facebookresearch/sweet_rl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1388,7 +1322,7 @@
             {
               "node_type": "item",
               "title": "[2023-06-26] [NeurIPS 2023] InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback",
-              "description": null,
+              "description": "princeton-nlp/intercode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1409,7 +1343,7 @@
             {
               "node_type": "item",
               "title": "[2023-09-19] [ICLR 2024] MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback",
-              "description": null,
+              "description": "xingyaoww/mint-bench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1430,7 +1364,7 @@
             {
               "node_type": "item",
               "title": "[2026-06-11] [arXiv 2026] Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents (TRACE)",
-              "description": null,
+              "description": "YujunZhou/tellonce",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1462,7 +1396,7 @@
             {
               "node_type": "item",
               "title": "[2025-10-07] [arXiv 2025] RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback",
-              "description": null,
+              "description": "ChunyuMiao98/RECODE-H",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1483,7 +1417,7 @@
             {
               "node_type": "item",
               "title": "[2025-02-27] [ICLR 2025] ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments",
-              "description": null,
+              "description": "stovecat/convcodeworld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1511,7 +1445,7 @@
             {
               "node_type": "item",
               "title": "[2024-10-31] [ICLR 2025] PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks",
-              "description": null,
+              "description": "facebookresearch/partnr-planner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1532,7 +1466,7 @@
             {
               "node_type": "item",
               "title": "[2023-07-05] [ICLR 2024] Building Cooperative Embodied Agents Modularly with Large Language Models",
-              "description": null,
+              "description": "UMass-Embodied-AGI/CoELA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1553,7 +1487,7 @@
             {
               "node_type": "item",
               "title": "[2023-07-04] [arXiv 2023] Embodied Task Planning with Large Language Models",
-              "description": null,
+              "description": "Gary3410/TaPA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1579,7 +1513,7 @@
             {
               "node_type": "item",
               "title": "[2023-09-19] [ICLR 2024] MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback",
-              "description": null,
+              "description": "xingyaoww/mint-bench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1600,7 +1534,7 @@
             {
               "node_type": "item",
               "title": "[2023-04-21] [EACL 2024 Findings] Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback",
-              "description": null,
+              "description": "microsoft/iglu-datasets",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1621,7 +1555,7 @@
             {
               "node_type": "item",
               "title": "[2026-07-07] [arXiv 2026] LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability",
-              "description": null,
+              "description": "wcx21/deliberative-collaboration-agents",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1649,7 +1583,7 @@
             {
               "node_type": "item",
               "title": "[2025-05-24] [ICLR 2025] Learning to Clarify: Multi-turn Conversations with Action-Based Contrastive Self-Training",
-              "description": "[Code]",
+              "description": "google-research/google-research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1674,7 +1608,7 @@
             {
               "node_type": "item",
               "title": "[2024-08-27] [EMNLP 2024] Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations",
-              "description": null,
+              "description": "stanford-oval/storm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1705,7 +1639,7 @@
             {
               "node_type": "item",
               "title": "[2024-02-08] [arXiv 2024] WebLINX: Real-World Website Navigation with Multi-Turn Dialogue",
-              "description": null,
+              "description": "McGill-NLP/weblinx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1735,7 +1669,7 @@
             {
               "node_type": "item",
               "title": "[2023-09-19] [ICLR 2024] MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback",
-              "description": null,
+              "description": "xingyaoww/mint-bench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1756,7 +1690,7 @@
             {
               "node_type": "item",
               "title": "[2025-09-24] [arXiv 2025] UserRL: Training Proactive User-Centric Agent via Reinforcement Learning",
-              "description": null,
+              "description": "SalesforceAIResearch/UserRL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1777,7 +1711,7 @@
             {
               "node_type": "item",
               "title": "[2026-05-26] [arXiv 2026] VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
-              "description": null,
+              "description": "meituan-longcat/VitaBench-2.0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1798,7 +1732,7 @@
             {
               "node_type": "item",
               "title": "[2026-02-18] [arXiv 2026] Learning Personalized Agents from Human Feedback",
-              "description": null,
+              "description": "facebookresearch/PAHF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1819,7 +1753,7 @@
             {
               "node_type": "item",
               "title": "[2026-02-28] [arXiv 2026] InfoPO: Information-Driven Policy Optimization for User-Centric Agents",
-              "description": null,
+              "description": "kfq20/InfoPO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1840,7 +1774,7 @@
             {
               "node_type": "item",
               "title": "[2026-03-21] [arXiv 2026] User Preference Modeling for Conversational LLM Agents: Weak Rewards from Retrieval-Augmented Interaction (VARS)",
-              "description": null,
+              "description": "YurenHao0426/VARS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1868,7 +1802,7 @@
             {
               "node_type": "item",
               "title": "[2026-06-07] [arXiv 2026] PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting",
-              "description": null,
+              "description": "WhymustIhaveaname/PerspectiveGap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1896,7 +1830,7 @@
             {
               "node_type": "item",
               "title": "[2025-04-11] [arXiv 2025] MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft",
-              "description": null,
+              "description": "microsoft/mineworld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1917,7 +1851,7 @@
             {
               "node_type": "item",
               "title": "[2023-09-18] [ICLR 2024] MindAgent: Emergent Gaming Interaction",
-              "description": null,
+              "description": "mindagent/mindagent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1945,7 +1879,7 @@
             {
               "node_type": "item",
               "title": "[2025-07-28] [arXiv 2025] GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis",
-              "description": null,
+              "description": "Liu-Hy/GenoMAS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1973,7 +1907,7 @@
             {
               "node_type": "item",
               "title": "[2025-04-13] [arXiv 2025] EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety",
-              "description": null,
+              "description": "1akaman/EmoAgent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2001,7 +1935,7 @@
             {
               "node_type": "item",
               "title": "[2025-06-09] [arXiv 2025] τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
-              "description": null,
+              "description": "sierra-research/tau2-bench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2011,7 +1945,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-28T19:42:48Z",
-                "open_issues": 244,
+                "open_issues": 251,
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
                 "stars": 2157,
@@ -2028,7 +1962,7 @@
             {
               "node_type": "item",
               "title": "[2024-06-18] [ICLR 2025] τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
-              "description": null,
+              "description": "sierra-research/tau-bench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2049,7 +1983,7 @@
             {
               "node_type": "item",
               "title": "[2026-05-26] [arXiv 2026] VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
-              "description": null,
+              "description": "meituan-longcat/VitaBench-2.0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2077,7 +2011,7 @@
             {
               "node_type": "item",
               "title": "[2025-06-09] [arXiv 2025] τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
-              "description": null,
+              "description": "sierra-research/tau2-bench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2087,7 +2021,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-28T19:42:48Z",
-                "open_issues": 244,
+                "open_issues": 251,
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
                 "stars": 2157,
@@ -2104,7 +2038,7 @@
             {
               "node_type": "item",
               "title": "[2024-06-18] [ICLR 2025] τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
-              "description": null,
+              "description": "sierra-research/tau-bench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2125,7 +2059,7 @@
             {
               "node_type": "item",
               "title": "[2025-07-29] [arXiv 2025] UserBench: An Interactive Gym Environment for User-Centric Agents",
-              "description": null,
+              "description": "SalesforceAIResearch/UserBench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2153,7 +2087,7 @@
             {
               "node_type": "item",
               "title": "[2025-05-16] [arXiv 2025] XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision",
-              "description": null,
+              "description": "NuoJohnChen/XtraGPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2174,7 +2108,7 @@
             {
               "node_type": "item",
               "title": "[2026-03-02] [arXiv 2026] ViviDoc: Generating Interactive Documents through Human-Agent Collaboration",
-              "description": null,
+              "description": "MisterBrookT/vividoc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2206,7 +2140,7 @@
             {
               "node_type": "item",
               "title": "[2025-05-21] [arXiv 2025] Prototypical Human-AI Collaboration Behaviors from LLM-Assisted Writing in the Wild",
-              "description": null,
+              "description": "microsoft/prototypical-hai-collaborations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2641,7 +2575,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-28T19:42:48Z",
-                "open_issues": 244,
+                "open_issues": 251,
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
                 "stars": 2157,
@@ -3163,10 +3097,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-21T10:12:33Z",
-                "open_issues": 145,
+                "open_issues": 144,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70718,
+                "stars": 70719,
                 "topics": [
                   "agent",
                   "gpt",
@@ -3614,7 +3548,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-28T19:42:48Z",
-                "open_issues": 244,
+                "open_issues": 251,
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
                 "stars": 2157,
@@ -4136,10 +4070,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-21T10:12:33Z",
-                "open_issues": 145,
+                "open_issues": 144,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70718,
+                "stars": 70719,
                 "topics": [
                   "agent",
                   "gpt",
@@ -4608,7 +4542,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-28T19:42:48Z",
-                "open_issues": 244,
+                "open_issues": 251,
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
                 "stars": 2157,
@@ -5130,10 +5064,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-21T10:12:33Z",
-                "open_issues": 145,
+                "open_issues": 144,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70718,
+                "stars": 70719,
                 "topics": [
                   "agent",
                   "gpt",
@@ -5581,7 +5515,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-28T19:42:48Z",
-                "open_issues": 244,
+                "open_issues": 251,
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
                 "stars": 2157,
@@ -6103,10 +6037,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-21T10:12:33Z",
-                "open_issues": 145,
+                "open_issues": 144,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70718,
+                "stars": 70719,
                 "topics": [
                   "agent",
                   "gpt",
@@ -6153,7 +6087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:49:45.844Z",
+    "last_updated": "2026-10-03T04:25:29.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "[ACL 2026] LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey | Awesome Human-Agent Collaboration | Human-AI Collaboration ",
