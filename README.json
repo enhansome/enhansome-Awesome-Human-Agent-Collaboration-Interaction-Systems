@@ -19,7 +19,7 @@
             "open_issues": 139,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70868,
+            "stars": 70885,
             "topics": [
               "agent",
               "gpt",
@@ -43,10 +43,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T02:18:00Z",
-            "open_issues": 2006,
+            "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38922,
+            "stars": 38928,
             "topics": [
               "ai",
               "machine-learning",
@@ -71,7 +71,7 @@
             "open_issues": 111,
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31643,
+            "stars": 31651,
             "topics": [
               "agentic-rag",
               "deep-research",
@@ -102,7 +102,7 @@
             "open_issues": 20,
             "owner": "microsoft",
             "repo": "magentic-ui",
-            "stars": 10096,
+            "stars": 10097,
             "topics": [
               "agents",
               "ai",
@@ -131,11 +131,11 @@
             "id": 999222244,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-15T21:50:42Z",
-            "open_issues": 267,
+            "last_commit": "2026-10-16T18:18:23Z",
+            "open_issues": 269,
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 2240,
+            "stars": 2246,
             "topics": [
               "ai",
               "benchmark",
@@ -162,7 +162,7 @@
             "open_issues": 55,
             "owner": "sierra-research",
             "repo": "tau-bench",
-            "stars": 1464,
+            "stars": 1465,
             "topics": []
           },
           "first_seen": "2026-08-29T02:00:08.307Z"
@@ -183,7 +183,7 @@
             "open_issues": 7,
             "owner": "thunlp",
             "repo": "ProactiveAgent",
-            "stars": 676,
+            "stars": 677,
             "topics": []
           },
           "first_seen": "2026-08-29T02:00:08.307Z"
@@ -204,7 +204,7 @@
             "open_issues": 9,
             "owner": "microsoft",
             "repo": "mineworld",
-            "stars": 494,
+            "stars": 493,
             "topics": []
           },
           "first_seen": "2026-08-29T02:00:08.307Z"
@@ -335,7 +335,7 @@
             "open_issues": 8,
             "owner": "Gary3410",
             "repo": "TaPA",
-            "stars": 196,
+            "stars": 195,
             "topics": [
               "ai2thor",
               "embodied-agent",
@@ -509,7 +509,7 @@
             "open_issues": 0,
             "owner": "sunnweiwei",
             "repo": "PPP-Agent",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-29T02:00:08.307Z"
@@ -551,7 +551,7 @@
             "open_issues": 4,
             "owner": "meituan-longcat",
             "repo": "VitaBench-2.0",
-            "stars": 71,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-29T02:00:08.307Z"
@@ -600,6 +600,27 @@
         },
         {
           "node_type": "item",
+          "title": "[2026-02-18] [arXiv 2026] Learning Personalized Agents from Human Feedback",
+          "description": "facebookresearch/PAHF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "PAHF  Personalized Agent from Human Feedback",
+            "homepage": null,
+            "id": 1129882882,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-04-26T08:12:12Z",
+            "open_issues": 1,
+            "owner": "facebookresearch",
+            "repo": "PAHF",
+            "stars": 62,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T02:00:08.307Z"
+        },
+        {
+          "node_type": "item",
           "title": "[2025-02-17] [ACL 2025] Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration",
           "description": "sjtu-marl/DPT-Agent",
           "children": [],
@@ -615,27 +636,6 @@
             "owner": "sjtu-marl",
             "repo": "DPT-Agent",
             "stars": 62,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:00:08.307Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[2026-02-18] [arXiv 2026] Learning Personalized Agents from Human Feedback",
-          "description": "facebookresearch/PAHF",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "PAHF  Personalized Agent from Human Feedback",
-            "homepage": null,
-            "id": 1129882882,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-04-26T08:12:12Z",
-            "open_issues": 1,
-            "owner": "facebookresearch",
-            "repo": "PAHF",
-            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-29T02:00:08.307Z"
@@ -1281,7 +1281,7 @@
                 "open_issues": 20,
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10096,
+                "stars": 10097,
                 "topics": [
                   "agents",
                   "ai",
@@ -1479,7 +1479,7 @@
                 "open_issues": 6,
                 "owner": "UMass-Embodied-AGI",
                 "repo": "CoELA",
-                "stars": 315,
+                "stars": 316,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -1500,7 +1500,7 @@
                 "open_issues": 8,
                 "owner": "Gary3410",
                 "repo": "TaPA",
-                "stars": 196,
+                "stars": 195,
                 "topics": [
                   "ai2thor",
                   "embodied-agent",
@@ -1593,10 +1593,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T02:18:00Z",
-                "open_issues": 2006,
+                "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38922,
+                "stars": 38928,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1621,7 +1621,7 @@
                 "open_issues": 111,
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31643,
+                "stars": 31651,
                 "topics": [
                   "agentic-rag",
                   "deep-research",
@@ -1724,7 +1724,7 @@
                 "open_issues": 4,
                 "owner": "meituan-longcat",
                 "repo": "VitaBench-2.0",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -1745,7 +1745,7 @@
                 "open_issues": 1,
                 "owner": "facebookresearch",
                 "repo": "PAHF",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -1843,7 +1843,7 @@
                 "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "mineworld",
-                "stars": 494,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -1944,11 +1944,11 @@
                 "id": 999222244,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T21:50:42Z",
-                "open_issues": 267,
+                "last_commit": "2026-10-16T18:18:23Z",
+                "open_issues": 269,
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 2240,
+                "stars": 2246,
                 "topics": [
                   "ai",
                   "benchmark",
@@ -1975,7 +1975,7 @@
                 "open_issues": 55,
                 "owner": "sierra-research",
                 "repo": "tau-bench",
-                "stars": 1464,
+                "stars": 1465,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -1996,7 +1996,7 @@
                 "open_issues": 4,
                 "owner": "meituan-longcat",
                 "repo": "VitaBench-2.0",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -2020,11 +2020,11 @@
                 "id": 999222244,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T21:50:42Z",
-                "open_issues": 267,
+                "last_commit": "2026-10-16T18:18:23Z",
+                "open_issues": 269,
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 2240,
+                "stars": 2246,
                 "topics": [
                   "ai",
                   "benchmark",
@@ -2051,7 +2051,7 @@
                 "open_issues": 55,
                 "owner": "sierra-research",
                 "repo": "tau-bench",
-                "stars": 1464,
+                "stars": 1465,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -2240,7 +2240,7 @@
                 "open_issues": 4,
                 "owner": "meituan-longcat",
                 "repo": "VitaBench-2.0",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -2377,7 +2377,7 @@
                 "open_issues": 1,
                 "owner": "facebookresearch",
                 "repo": "PAHF",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -2398,7 +2398,7 @@
                 "open_issues": 0,
                 "owner": "sunnweiwei",
                 "repo": "PPP-Agent",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -2503,7 +2503,7 @@
                 "open_issues": 20,
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10096,
+                "stars": 10097,
                 "topics": [
                   "agents",
                   "ai",
@@ -2574,11 +2574,11 @@
                 "id": 999222244,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T21:50:42Z",
-                "open_issues": 267,
+                "last_commit": "2026-10-16T18:18:23Z",
+                "open_issues": 269,
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 2240,
+                "stars": 2246,
                 "topics": [
                   "ai",
                   "benchmark",
@@ -2602,10 +2602,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T02:18:00Z",
-                "open_issues": 2006,
+                "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38922,
+                "stars": 38928,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2672,7 +2672,7 @@
                 "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "mineworld",
-                "stars": 494,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -2871,7 +2871,7 @@
                 "open_issues": 111,
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31643,
+                "stars": 31651,
                 "topics": [
                   "agentic-rag",
                   "deep-research",
@@ -3100,7 +3100,7 @@
                 "open_issues": 139,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70868,
+                "stars": 70885,
                 "topics": [
                   "agent",
                   "gpt",
@@ -3127,7 +3127,7 @@
                 "open_issues": 8,
                 "owner": "Gary3410",
                 "repo": "TaPA",
-                "stars": 196,
+                "stars": 195,
                 "topics": [
                   "ai2thor",
                   "embodied-agent",
@@ -3213,7 +3213,7 @@
                 "open_issues": 4,
                 "owner": "meituan-longcat",
                 "repo": "VitaBench-2.0",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -3350,7 +3350,7 @@
                 "open_issues": 1,
                 "owner": "facebookresearch",
                 "repo": "PAHF",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -3371,7 +3371,7 @@
                 "open_issues": 0,
                 "owner": "sunnweiwei",
                 "repo": "PPP-Agent",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -3476,7 +3476,7 @@
                 "open_issues": 20,
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10096,
+                "stars": 10097,
                 "topics": [
                   "agents",
                   "ai",
@@ -3547,11 +3547,11 @@
                 "id": 999222244,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T21:50:42Z",
-                "open_issues": 267,
+                "last_commit": "2026-10-16T18:18:23Z",
+                "open_issues": 269,
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 2240,
+                "stars": 2246,
                 "topics": [
                   "ai",
                   "benchmark",
@@ -3575,10 +3575,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T02:18:00Z",
-                "open_issues": 2006,
+                "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38922,
+                "stars": 38928,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3645,7 +3645,7 @@
                 "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "mineworld",
-                "stars": 494,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -3844,7 +3844,7 @@
                 "open_issues": 111,
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31643,
+                "stars": 31651,
                 "topics": [
                   "agentic-rag",
                   "deep-research",
@@ -4073,7 +4073,7 @@
                 "open_issues": 139,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70868,
+                "stars": 70885,
                 "topics": [
                   "agent",
                   "gpt",
@@ -4100,7 +4100,7 @@
                 "open_issues": 8,
                 "owner": "Gary3410",
                 "repo": "TaPA",
-                "stars": 196,
+                "stars": 195,
                 "topics": [
                   "ai2thor",
                   "embodied-agent",
@@ -4207,7 +4207,7 @@
                 "open_issues": 4,
                 "owner": "meituan-longcat",
                 "repo": "VitaBench-2.0",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -4344,7 +4344,7 @@
                 "open_issues": 1,
                 "owner": "facebookresearch",
                 "repo": "PAHF",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -4365,7 +4365,7 @@
                 "open_issues": 0,
                 "owner": "sunnweiwei",
                 "repo": "PPP-Agent",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -4470,7 +4470,7 @@
                 "open_issues": 20,
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10096,
+                "stars": 10097,
                 "topics": [
                   "agents",
                   "ai",
@@ -4541,11 +4541,11 @@
                 "id": 999222244,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T21:50:42Z",
-                "open_issues": 267,
+                "last_commit": "2026-10-16T18:18:23Z",
+                "open_issues": 269,
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 2240,
+                "stars": 2246,
                 "topics": [
                   "ai",
                   "benchmark",
@@ -4569,10 +4569,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T02:18:00Z",
-                "open_issues": 2006,
+                "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38922,
+                "stars": 38928,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4639,7 +4639,7 @@
                 "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "mineworld",
-                "stars": 494,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -4838,7 +4838,7 @@
                 "open_issues": 111,
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31643,
+                "stars": 31651,
                 "topics": [
                   "agentic-rag",
                   "deep-research",
@@ -5067,7 +5067,7 @@
                 "open_issues": 139,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70868,
+                "stars": 70885,
                 "topics": [
                   "agent",
                   "gpt",
@@ -5094,7 +5094,7 @@
                 "open_issues": 8,
                 "owner": "Gary3410",
                 "repo": "TaPA",
-                "stars": 196,
+                "stars": 195,
                 "topics": [
                   "ai2thor",
                   "embodied-agent",
@@ -5180,7 +5180,7 @@
                 "open_issues": 4,
                 "owner": "meituan-longcat",
                 "repo": "VitaBench-2.0",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -5317,7 +5317,7 @@
                 "open_issues": 1,
                 "owner": "facebookresearch",
                 "repo": "PAHF",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -5338,7 +5338,7 @@
                 "open_issues": 0,
                 "owner": "sunnweiwei",
                 "repo": "PPP-Agent",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -5443,7 +5443,7 @@
                 "open_issues": 20,
                 "owner": "microsoft",
                 "repo": "magentic-ui",
-                "stars": 10096,
+                "stars": 10097,
                 "topics": [
                   "agents",
                   "ai",
@@ -5514,11 +5514,11 @@
                 "id": 999222244,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T21:50:42Z",
-                "open_issues": 267,
+                "last_commit": "2026-10-16T18:18:23Z",
+                "open_issues": 269,
                 "owner": "sierra-research",
                 "repo": "tau2-bench",
-                "stars": 2240,
+                "stars": 2246,
                 "topics": [
                   "ai",
                   "benchmark",
@@ -5542,10 +5542,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T02:18:00Z",
-                "open_issues": 2006,
+                "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38922,
+                "stars": 38928,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -5612,7 +5612,7 @@
                 "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "mineworld",
-                "stars": 494,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:00:08.307Z"
@@ -5811,7 +5811,7 @@
                 "open_issues": 111,
                 "owner": "stanford-oval",
                 "repo": "storm",
-                "stars": 31643,
+                "stars": 31651,
                 "topics": [
                   "agentic-rag",
                   "deep-research",
@@ -6040,7 +6040,7 @@
                 "open_issues": 139,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70868,
+                "stars": 70885,
                 "topics": [
                   "agent",
                   "gpt",
@@ -6067,7 +6067,7 @@
                 "open_issues": 8,
                 "owner": "Gary3410",
                 "repo": "TaPA",
-                "stars": 196,
+                "stars": 195,
                 "topics": [
                   "ai2thor",
                   "embodied-agent",
@@ -6087,7 +6087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T21:58:24.293Z",
+    "last_updated": "2026-10-16T21:56:22.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "[ACL 2026] LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey | Awesome Human-Agent Collaboration | Human-AI Collaboration ",
